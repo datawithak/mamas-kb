@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F8F5F0;
+}
+
+/* Hide scrollbar for category strip on mobile */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth card hover */
+.kb-card {
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.kb-card:hover {
+  transform: translateY(-1px);
+}
