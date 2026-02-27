@@ -2,7 +2,7 @@
 
 A searchable knowledge base built from 4 WhatsApp community groups (~19,000 messages) serving Upper West Side parents in NYC.
 
-**Live demo:** [add your vercel URL here]
+**Live demo:** https://mamas-kb-psf8.vercel.app/
 
 ---
 
