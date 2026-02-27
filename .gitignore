@@ -12,4 +12,6 @@ web/.env*
 .DS_Store
 
 # WhatsApp exports — keep out of git (private chat data)
+raw/
 *.txt
+*.zip

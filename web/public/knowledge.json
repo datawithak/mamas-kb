@@ -1,16 +1,24 @@
 {
   "updated_at": "2026-02-25",
-  "total": 215,
+  "total": 218,
   "categories": [
     "Baby Classes & Activities",
     "Baby Products & Gear",
     "Beauty & Personal Care",
     "Childcare & Nannies",
+    "Dentists",
+    "Doulas",
     "Fitness & Wellness",
     "Home Services",
+    "Lactation & Feeding Support",
+    "Mental Health & Therapy",
     "OB/GYNs",
     "Parenting Tips",
-    "Pediatricians & Specialists",
+    "Pediatric Specialists",
+    "Pediatricians",
+    "Pelvic Floor & Postpartum Care",
+    "Primary Care Doctors",
+    "Sleep Consultants",
     "Stroller-Friendly Dining",
     "UWS Local Tips"
   ],
@@ -18,1507 +26,1528 @@
     {
       "id": "1",
       "category": "Baby Classes & Activities",
-      "title": "Imagine Swimming — Parent & Me (96th & West End Ave)",
-      "content": "Highly recommended swim program. Parent gets in the pool with baby. Can start from 8 weeks old. Parent-me classes ~$30/lesson up to 5 months, then ~$60. Free family swim on weekends with enrollment. Located at 96th St & West End Ave. Sundays at 12:30pm available. Multiple moms across all groups praised it.",
-      "tags": ["swimming", "parent-and-me", "8-weeks-plus", "UWS", "96th-street"]
+      "title": "Andy and Suzanna — FREE music, Riverside Park W 70th",
+      "content": "Free music class at Riverside Park at West 70th Street on Thursdays. Only $25 fee mentioned separately. Great for babies from birth.",
+      "tags": ["music", "free", "outdoor", "riverside park", "thursdays"]
     },
     {
       "id": "2",
       "category": "Baby Classes & Activities",
-      "title": "Swim Jim (808 Columbus Ave) — 2 months+",
-      "content": "Structured swim program at 808 Columbus Ave. Splash classes start at 2 months, Swimfants from 6 months. Warm pool. Pricey but structured curriculum. Highly regarded.",
-      "tags": ["swimming", "2-months-plus", "6-months-plus", "columbus-ave", "UWS"]
+      "title": "Bloomingdale Library Family Time — FREE storytime Tuesdays",
+      "content": "FREE storytime at Bloomingdale Library. Family Time on Tuesdays at 11:30am. No reservation needed. https://www.nypl.org/events/programs/2026/01/06/family-storytime-1",
+      "tags": ["free", "storytime", "library", "tuesdays", "nypl"]
     },
     {
       "id": "3",
       "category": "Baby Classes & Activities",
-      "title": "JCC Swimming (6 months+)",
-      "content": "JCC swimming lessons start at 6 months. No membership required — non-member pricing available. Semester-based registration.",
-      "tags": ["swimming", "6-months-plus", "JCC", "UWS", "no-membership-required"]
+      "title": "Bloomingdale Music School — baby and toddler music classes",
+      "content": "Bloomingdale Music School has great baby music classes for very young children and continues through toddler classes. Highly enjoyed by multiple families.",
+      "tags": ["music", "baby", "toddler", "uws"]
     },
     {
       "id": "4",
       "category": "Baby Classes & Activities",
-      "title": "JCC Tummy Time Drop-In",
-      "content": "Drop-in tummy time classes at the JCC. Fridays 12:15–1:00pm and Wednesdays 1:00–1:45pm. Also has Bubbling Babies swim class. Cost ~$20-25/class. Great for newborns and young babies. Also hosts infant CPR class (waitlist required).",
-      "tags": ["tummy-time", "JCC", "drop-in", "newborn", "UWS", "friday", "wednesday"]
+      "title": "Blooming Bebe — music & movement, Fridays outdoors/indoors",
+      "content": "Music and movement class. Meets Fridays in the park when weather is nice, moves indoors when cold. Good for babies and young toddlers.",
+      "tags": ["music", "movement", "outdoor", "indoor", "fridays"]
     },
     {
       "id": "5",
       "category": "Baby Classes & Activities",
-      "title": "Elliott's Gymnastics — Free Infant Class (0–6 months)",
-      "content": "Free infant gymnastics and movement classes for ages 0–6 months on the UWS. Highly recommended by multiple moms. Great for early movement development.",
-      "tags": ["gymnastics", "movement", "0-6-months", "UWS", "free"]
+      "title": "Barnes & Noble storytime — FREE, Saturdays 11am at 82nd & Broadway",
+      "content": "FREE storytime at Barnes & Noble on Broadway and 82nd Street. Saturdays at 11am. A new Sunday time may also be available. No reservation needed.",
+      "tags": ["free", "storytime", "books", "saturdays", "uws"]
     },
     {
       "id": "6",
       "category": "Baby Classes & Activities",
-      "title": "Discovery Programs Baby Social — Free Wednesdays",
-      "content": "Free drop-in baby social at Ansche Chesed synagogue. Wednesdays 12:15–1pm. For babies 0–9 months — songs, stories, and play. Great free option for newborns.",
-      "tags": ["free", "social", "0-9-months", "wednesday", "ansche-chesed", "UWS"]
+      "title": "Children's Museum of Manhattan (CMOM) — daily music circle 10:30am",
+      "content": "CMOM at 83rd and Broadway has a daily morning music circle at 10:30am on the 3rd floor — free with museum admission or membership. Good even for 6+ month babies. Membership tip: you can add a nanny's name as an adult on the membership for free entry.",
+      "tags": ["music", "museum", "baby", "toddler", "daily", "uws"]
     },
     {
       "id": "7",
       "category": "Baby Classes & Activities",
-      "title": "Ramblin' Dan Music (0+) — W86th Wednesdays",
-      "content": "Popular music class for babies and toddlers from birth. W86th St location on Wednesdays mornings. Fun and lively sessions, widely recommended across multiple groups.",
-      "tags": ["music", "0-plus", "UWS", "86th-street", "wednesday"]
+      "title": "Cocoon UWS — membership, music classes, 3 months+",
+      "content": "Cocoon at 408 Columbus Ave offers a membership program with music classes and community space. Caterpillar membership for babies 3 months+. Also home to The Lotus Method fitness studio. https://www.joincocoon.com/locations/uws",
+      "tags": ["music", "membership", "uws", "classes", "408 columbus"]
     },
     {
       "id": "8",
       "category": "Baby Classes & Activities",
-      "title": "Katie's Corner / Dwyer Family Arts — Music (0+)",
-      "content": "Music classes for babies through age 5+. Website: katiedwyermusic.com. Good for babies starting from birth.",
-      "tags": ["music", "0-plus", "toddler", "UWS"]
+      "title": "Dance with Miss Rachel — Baby Bob music (10+ weeks)",
+      "content": "Dance with Miss Rachel offers a Baby Bob Music class for babies 10 weeks and older. Listed on HiSawyer.com.",
+      "tags": ["music", "newborn", "baby", "10 weeks"]
     },
     {
       "id": "9",
       "category": "Baby Classes & Activities",
-      "title": "Andy & Suzanna Music — Riverside Park (96th St, 10:30am)",
-      "content": "Outdoor music class in Riverside Park at 96th St. Starts at 10:30am. Good warm-weather option.",
-      "tags": ["music", "outdoor", "riverside-park", "96th-street", "UWS"]
+      "title": "Discovery Programs — FREE Baby Social Wednesdays, Baby Gym 9m+",
+      "content": "Discovery Programs offers Baby Social (FREE Wednesdays 12:15-1pm for 9 months and younger) and Baby Gym (9 months+, 12:15pm). Great for early meetups and play.",
+      "tags": ["free", "baby", "gym", "wednesdays", "9 months"]
     },
     {
       "id": "10",
       "category": "Baby Classes & Activities",
-      "title": "Blooming Bebe — Infant Classes (2 months+)",
-      "content": "Baby movement/activity classes starting at 2 months. Classes held in Central Park and other locations. Good for babies under 1 year.",
-      "tags": ["movement", "2-months-plus", "baby-classes", "central-park", "UWS"]
+      "title": "Eastside Westside Music Together — 0+ months",
+      "content": "Eastside Westside Music Together offers classes starting from birth. Find on HiSawyer.com.",
+      "tags": ["music", "newborn", "baby", "music together"]
     },
     {
       "id": "11",
       "category": "Baby Classes & Activities",
-      "title": "Prenatal Yoga Center (PYC) — Baby & Me Yoga (72nd St)",
-      "content": "Postnatal yoga with baby starting at 4–6 weeks postpartum. Baby-friendly — recordings sent if you miss class portions. Also offers ASL & Music classes (3 months+). Infant CPR class offered (waitlist). Located on 72nd St.",
-      "tags": ["yoga", "postpartum", "4-weeks-plus", "baby-and-me", "UWS", "72nd-street", "ASL"]
+      "title": "Elliott's Gymnastics — FREE under 6 months, infant class",
+      "content": "Elliott's Gymnastics has a FREE infant class for babies 0-6 months. A great activity for very young babies. Multiple moms have recommended.",
+      "tags": ["free", "gymnastics", "infant", "0-6 months"]
     },
     {
       "id": "12",
       "category": "Baby Classes & Activities",
-      "title": "AURA Yoga + Pilates (239 W 72nd) — Mother's Circle",
-      "content": "Prenatal and postnatal yoga, pilates, and sculpt classes at 239 W 72nd St. Mother's Circle program. Pre and postnatal certified instructors. Private sessions and Central Park outdoor classes also available.",
-      "tags": ["yoga", "pilates", "prenatal", "postnatal", "72nd-street", "UWS"]
+      "title": "Fountain Bookshop — storytime Tuesdays & Fridays 10:15am",
+      "content": "Fountain Bookshop in Washington Heights has storytime every Tuesday and Friday at 10:15am. FREE.",
+      "tags": ["free", "storytime", "washington heights", "tuesdays", "fridays"]
     },
     {
       "id": "13",
       "category": "Baby Classes & Activities",
-      "title": "The Lotus Method (408 Columbus Ave inside Cocoon) — Pre/Postnatal",
-      "content": "Pre and postnatal functional strength training at 408 Columbus Ave (inside Cocoon). Pre-crawlers welcome in postnatal classes. Use code UWSFREE for a free first class. Highly recommended by local moms.",
-      "tags": ["fitness", "strength-training", "prenatal", "postnatal", "UWS", "408-columbus", "free-trial"]
+      "title": "Fun Fit Kids NYC — open play for babies and toddlers",
+      "content": "Fun Fit Kids has open play sessions. https://www.funfitnyc.com",
+      "tags": ["open play", "baby", "toddler", "uws"]
     },
     {
       "id": "14",
       "category": "Baby Classes & Activities",
-      "title": "Fire Studio (W 115th) — Mom Strength Training & Yoga",
-      "content": "Mom-focused strength training and yoga classes 5 days a week. Bring your baby to class. Located on W 115th St.",
-      "tags": ["fitness", "yoga", "strength-training", "postnatal", "baby-welcome", "115th-street"]
+      "title": "Goldfish Swim School UWS Broadway — swim lessons",
+      "content": "Goldfish Swim School on UWS Broadway. https://goldfishswimschool.com/uws-broadway/",
+      "tags": ["swim", "lessons", "uws", "broadway"]
     },
     {
       "id": "15",
       "category": "Baby Classes & Activities",
-      "title": "Eastside Westside Music Together (0+)",
-      "content": "Music Together classes starting from birth. Offered on both UWS and UES. Popular program with good curriculum.",
-      "tags": ["music", "0-plus", "music-together", "UWS", "UES"]
+      "title": "Imagine Swimming — parent & me, 2 months+, $30-$60/lesson",
+      "content": "Parent and me swim program. $30/lesson for babies under 5 months, $60 for 5+ months. Free family swim on weekends for currently enrolled students. https://www.imagineswimming.com",
+      "tags": ["swim", "parent and me", "infant", "toddler"]
     },
     {
       "id": "16",
       "category": "Baby Classes & Activities",
-      "title": "Little Maestros Music (3 months – 3 years)",
-      "content": "Music classes for babies and toddlers ages 3 months to 3 years. Also Maestros University for 3–4 year olds.",
-      "tags": ["music", "3-months-plus", "toddler", "UWS"]
+      "title": "JCC (76th & Amsterdam) — tummy time, swim, meetups, music",
+      "content": "The JCC at 76th and Amsterdam offers multiple programs: (1) Tummy Time class $20-25/class, Fridays 12:15-1pm and Wednesdays 1-1:45pm. (2) Swim lessons starting 6 months, no membership required but non-member pricing higher — call at 9am sharp on registration day (Nov 19 for non-members). (3) Weekly meet-ups for parents of infants (birth to 1 year), facilitated by Kate Kirschner, therapist specializing in perinatal period. (4) Prenatal massage with Loretta every other Sunday 2-7pm; $108/60min for members. (5) Little Maestros music class.",
+      "tags": ["tummy time", "swim", "music", "meetup", "76th amsterdam", "jcc"]
     },
     {
       "id": "17",
       "category": "Baby Classes & Activities",
-      "title": "Moosikikids Music (2 months+)",
-      "content": "Baby music classes starting at 2 months. Recommended by UWS moms.",
-      "tags": ["music", "2-months-plus", "baby-classes"]
+      "title": "Karen Valentin — music class, 3 months to 3+ years",
+      "content": "Karen Valentin teaches a music class open to kids from 3 months to 3+ years. Find on HiSawyer.com.",
+      "tags": ["music", "baby", "toddler", "uws"]
     },
     {
       "id": "18",
       "category": "Baby Classes & Activities",
-      "title": "Musibambino — Baby & Toddler Music",
-      "content": "Baby and toddler music class, recommended by UWS moms.",
-      "tags": ["music", "baby-classes", "toddler"]
+      "title": "Katie's Corner / Dwyer Family Arts — music class, UWS",
+      "content": "Music program by Katie Dwyer on the UWS. Dwyer Family Arts. http://www.katiedwyermusic.com",
+      "tags": ["music", "uws", "katie dwyer"]
     },
     {
       "id": "19",
       "category": "Baby Classes & Activities",
-      "title": "Dance with Miss Rachel — Baby Bob Music (10 weeks+)",
-      "content": "Baby Bob music class for 10+ weeks. In-person NYC Elite / Miss Rachel sessions. Popular program widely recognized by babies.",
-      "tags": ["music", "dance", "10-weeks-plus", "baby-classes"]
+      "title": "Little Maestros at JCC — music, 3 months to 3 years",
+      "content": "Little Maestros music program at the JCC on 76th and Amsterdam. Ages 3 months to 3 years. Highly recommended by multiple families. Also available at Workplayce (70th & Broadway).",
+      "tags": ["music", "jcc", "3 months", "76th amsterdam"]
     },
     {
       "id": "20",
       "category": "Baby Classes & Activities",
-      "title": "Singin' Swingin' Shabbat — Rodeph Sholom (0–4 years)",
-      "content": "Music and movement Shabbat program at Congregation Rodeph Sholom. Ages 0–4 years. Very welcoming to all families.",
-      "tags": ["music", "0-4-years", "jewish", "UWS", "shabbat"]
+      "title": "Mommy & Me movies at AMC Lincoln Square — stroller-friendly",
+      "content": "AMC Lincoln Square hosts Mommy & Me screenings with lowered volume, dimmed lights, and stroller-friendly layout. https://amc.film/",
+      "tags": ["movies", "stroller friendly", "lincoln square", "baby"]
     },
     {
       "id": "21",
       "category": "Baby Classes & Activities",
-      "title": "Soccer Stars (1 year+)",
-      "content": "Soccer program for toddlers starting at 1 year. Good structured outdoor activity.",
-      "tags": ["soccer", "sports", "1-year-plus", "toddler"]
+      "title": "Moosiki Kids — music class, 2 months+, Riverside Park",
+      "content": "Moosiki Kids music class in Riverside Park for babies 2 months+. Small class sizes — precrawler class sometimes only 2 kids. Interactive singer. https://www.moosikikids.com/fallschedule",
+      "tags": ["music", "riverside park", "infant", "2 months"]
     },
     {
       "id": "22",
       "category": "Baby Classes & Activities",
-      "title": "The Little Gym (4 months+)",
-      "content": "Gymnastics and movement classes for babies 4 months and up.",
-      "tags": ["gymnastics", "4-months-plus", "movement"]
+      "title": "NYPL storytime — FREE multiple branches",
+      "content": "New York Public Library branches throughout UWS offer free storytimes. No reservation needed. Visit nypl.org for schedule.",
+      "tags": ["free", "storytime", "library", "nypl"]
     },
     {
       "id": "23",
       "category": "Baby Classes & Activities",
-      "title": "NYC Elite Wiggle Worms (pre-crawlers, 2x/week)",
-      "content": "Pre-crawler activity program offered twice a week. Good for babies before they start crawling.",
-      "tags": ["movement", "pre-crawler", "baby-classes"]
+      "title": "PYC (Prenatal Yoga Center) — Baby & Me Yoga (4-6 weeks), ASL & Music (3 months)",
+      "content": "Prenatal Yoga Center at 72nd and Amsterdam. Baby & Me Yoga starts at 4-6 weeks postpartum. ASL & Music class starts at 3 months. Strollers can be brought upstairs — ask for Finn. Also offers prenatal massage (ask for Nicole, Norvis, or Anne).",
+      "tags": ["yoga", "baby", "music", "asl", "72nd amsterdam", "pyc", "prenatal massage"]
     },
     {
       "id": "24",
       "category": "Baby Classes & Activities",
-      "title": "Juliette and Ella's Playdate (3 months+)",
-      "content": "Playdate-style movement class for babies 3 months and up.",
-      "tags": ["playdate", "movement", "3-months-plus"]
+      "title": "Ramblin Dan — music, 0-18 months, 86th and 72nd locations",
+      "content": "Ramblin Dan is a highly recommended music class for 0-18 months. 86th location at noon; 72nd location Mondays 12:30pm. Great for all ages and loved by nannies.",
+      "tags": ["music", "infant", "toddler", "86th", "72nd", "mondays"]
     },
     {
       "id": "25",
       "category": "Baby Classes & Activities",
-      "title": "Strand Bookstore Story Time (81st St — Sat & Sun, 12pm & 3pm)",
-      "content": "Story time at the Strand Bookstore 81st St location. Saturdays and Sundays at 12pm and 3pm. Great for babies and toddlers, free.",
-      "tags": ["story-time", "books", "free", "UWS", "81st-street", "weekend"]
+      "title": "Singin' Swingin' Shabbat at Rodeph Sholom — 0-4 years",
+      "content": "Singin' Swingin' Shabbat at Rodeph Sholom synagogue. Ages 0-4 years. Listed on HiSawyer.com.",
+      "tags": ["music", "shabbat", "jewish", "0-4 years", "uws"]
     },
     {
       "id": "26",
       "category": "Baby Classes & Activities",
-      "title": "Bloomingdale Library Family Time (Tuesdays 11:30am)",
-      "content": "Free family story time at the Bloomingdale branch of the New York Public Library. Tuesdays at 11:30am.",
-      "tags": ["story-time", "library", "free", "NYPL", "UWS", "tuesday"]
+      "title": "Strand Bookstore storytime — FREE, Saturdays & Sundays 12pm & 3pm",
+      "content": "FREE storytime at the Strand Bookstore at the 81st Street UWS location. Saturdays and Sundays at 12pm and 3pm. No reservation required.",
+      "tags": ["free", "storytime", "books", "weekends", "81st", "uws"]
     },
     {
       "id": "27",
       "category": "Baby Classes & Activities",
-      "title": "Hans Christian Andersen Statue Story Time (Central Park)",
-      "content": "Saturday story time at the Hans Christian Andersen statue in Central Park. Runs 11am until August 9. Check hcastorycenter.org for schedule.",
-      "tags": ["story-time", "free", "central-park", "outdoor", "saturday"]
+      "title": "Swim Jim (808 Columbus Ave) — Splash 2 months+, Swimfants 6 months+",
+      "content": "Swim Jim at 808 Columbus Ave. Splash class from 2 months, Swimfants class from 6 months. Pool can be cold. https://www.swimjim.com/locations/new-york/nyc/upper-west-side-808-columbus-ave-swim-school",
+      "tags": ["swim", "infant", "2 months", "6 months", "808 columbus"]
     },
     {
       "id": "28",
       "category": "Baby Classes & Activities",
-      "title": "AMC Lincoln Square — Mommy & Me Movies",
-      "content": "Baby-friendly movie screenings at AMC Lincoln Square. Lowered volume, dimmed lights, stroller-friendly seating. Various films shown throughout the week.",
-      "tags": ["movies", "baby-friendly", "stroller-friendly", "lincoln-square", "UWS"]
+      "title": "Workplayce Family Cafe — weekly meetup, W 70th & Broadway",
+      "content": "Workplayce at W 70th and Broadway hosts a weekly Family Cafe (typically Thursday or Friday mornings, 9-10:30am) with coffee, bagels, and community. Free to attend — sign up and mention The Nest. Also hosts Little Maestros music class.",
+      "tags": ["meetup", "community", "free", "70th broadway", "coffee"]
     },
     {
       "id": "29",
-      "category": "Baby Classes & Activities",
-      "title": "Lenny Pearce Toddler Techno / Rave Events",
-      "content": "Pop-up toddler rave / techno events around NYC. Fun, energetic events for toddlers who love to dance. Find tickets on Ticketmaster — search Lenny Pearce.",
-      "tags": ["events", "music", "toddler", "dance", "nyc"]
+      "category": "Baby Products & Gear",
+      "title": "Baby Bjorn Bouncer Balance Soft — great newborn bouncer",
+      "content": "Baby Bjorn Bouncer Balance Soft has more padding than competitors and is highly recommended for newborns.",
+      "tags": ["bouncer", "newborn", "baby bjorn"]
     },
     {
       "id": "30",
-      "category": "Baby Classes & Activities",
-      "title": "Play Street Museum (1 year+, reservation required)",
-      "content": "Indoor play space for babies and toddlers from 1 year. Reservation required. Good for rainy days.",
-      "tags": ["play", "indoor", "1-year-plus", "reservation"]
+      "category": "Baby Products & Gear",
+      "title": "Baby Brezza bottle washer/sterilizer — no hose needed",
+      "content": "Baby Brezza bottle washer and sterilizer does not require a sink hose connection. Great for kitchens where running a hose is not convenient.",
+      "tags": ["bottle washer", "sterilizer", "newborn", "feeding"]
     },
     {
       "id": "31",
-      "category": "Baby Classes & Activities",
-      "title": "Children's Museum of Manhattan (CMOM)",
-      "content": "Popular museum for babies and toddlers. Members can go early on the first Saturday. Library museum passes available to borrow for free admission. Great for rainy days.",
-      "tags": ["museum", "indoor", "toddler", "UWS", "membership", "library-pass"]
+      "category": "Baby Products & Gear",
+      "title": "Babyletto Kiwi glider/rocker — great for small NYC apartments",
+      "content": "Babyletto Kiwi glider is highly recommended for small spaces. Popular among NYC moms. https://a.co/d/6M1oCI4",
+      "tags": ["glider", "rocker", "nursery", "small space"]
     },
     {
       "id": "32",
-      "category": "Baby Classes & Activities",
-      "title": "New York Historical Society — Story Time & Crafts (3+ years)",
-      "content": "Story time and crafts at the NY Historical Society. For children 3 years and up. Also has model trains display.",
-      "tags": ["story-time", "crafts", "3-years-plus", "museum", "UWS"]
+      "category": "Baby Products & Gear",
+      "title": "Blackout window sticker — Velimax removable blackout film",
+      "content": "Velimax blackout window film stickers are highly effective at blocking all light for sleep. Easy to remove. Not aesthetically pleasing, but keeps room dark all day. https://www.amazon.com/Velimax-Blackout-Darkening-Removable-Sticker/dp/B07FF4Q1BR",
+      "tags": ["blackout", "sleep", "window", "nursery"]
     },
     {
       "id": "33",
-      "category": "Baby Classes & Activities",
-      "title": "Home Depot Kids Workshop (1st Saturday every month, free)",
-      "content": "Free children's building workshops at Home Depot. First Saturday of every month. Good for toddlers and kids.",
-      "tags": ["free", "crafts", "toddler", "home-depot", "monthly", "saturday"]
+      "category": "Baby Products & Gear",
+      "title": "Chicco Fit 360 car seat — good for 12+ months",
+      "content": "Chicco Fit 360 car seat is recommended for babies 12 months and up. Good upgrade from infant car seat.",
+      "tags": ["car seat", "12 months", "chicco", "toddler"]
     },
     {
       "id": "34",
-      "category": "Baby Classes & Activities",
-      "title": "Brooklyn Forest / Upper West Side Forest Kids",
-      "content": "Outdoor nature and forest play programs for children ages 1–5. Brooklyn Forest and UWS Forest Kids chapters available.",
-      "tags": ["outdoor", "nature", "1-5-years", "toddler", "forest"]
+      "category": "Baby Products & Gear",
+      "title": "Cosco Scenera Next + J.L. Childress backpack — lightweight travel car seat",
+      "content": "Cosco Scenera Next is a great lightweight travel car seat. Pair with J.L. Childress Deluxe Backpack for easy carry-on travel. https://www.amazon.com/dp/B0009RNXNA",
+      "tags": ["travel", "car seat", "lightweight", "airplane", "backpack"]
     },
     {
       "id": "35",
-      "category": "Baby Classes & Activities",
-      "title": "New York Botanical Garden — Everett's Children's Garden",
-      "content": "Children's garden at the New York Botanical Garden. Good for toddlers and older kids who enjoy outdoor exploration.",
-      "tags": ["outdoor", "garden", "nature", "toddler", "NYBG"]
+      "category": "Baby Products & Gear",
+      "title": "DaVinci Piper glider — space-saving nursery chair",
+      "content": "DaVinci Piper glider is a space-saving option for small nurseries. Good alternative to larger rockers.",
+      "tags": ["glider", "nursery", "small space"]
     },
     {
       "id": "36",
-      "category": "Baby Classes & Activities",
-      "title": "Sesame Place (2+ years, mostly water park)",
-      "content": "Good for 2+ year olds, especially those who know Sesame Street characters. Mostly a water park. Tips: go early (opens at 10am), avoid weekends, bring sunscreen. Not much for under 2.",
-      "tags": ["theme-park", "2-years-plus", "water-park", "sesame-street", "day-trip"]
+      "category": "Baby Products & Gear",
+      "title": "Doona stroller/car seat combo — great for NYC cabs",
+      "content": "Doona combo stroller/car seat is beloved by NYC parents for cabs and easy transitions. Popular UWS choice.",
+      "tags": ["stroller", "car seat", "combo", "nyc", "cab"]
     },
     {
       "id": "37",
-      "category": "Baby Classes & Activities",
-      "title": "Free Riverside Park Music Class (Thursdays, 70th St)",
-      "content": "Free music class on Thursdays in Riverside Park near 70th St. Check the Riverside Park website/events calendar for schedule.",
-      "tags": ["music", "free", "outdoor", "riverside-park", "thursday", "UWS"]
+      "category": "Baby Products & Gear",
+      "title": "Dr. Brown sterilizer — microwave and electric options",
+      "content": "Dr. Brown sterilizer available in microwave version. Just sterilizes, does not wash — need separate dishwasher or hand-washing.",
+      "tags": ["sterilizer", "bottles", "dr brown", "newborn"]
     },
     {
       "id": "38",
-      "category": "Baby Classes & Activities",
-      "title": "Lincoln Center — Summer in the City Free Storytime",
-      "content": "Free outdoor story time at Lincoln Center as part of the Summer in the City program. Check Lincoln Center website for dates.",
-      "tags": ["story-time", "free", "outdoor", "lincoln-center", "summer"]
+      "category": "Baby Products & Gear",
+      "title": "Grownsy electric nasal aspirator — highly recommended",
+      "content": "Grownsy electric nasal aspirator is highly recommended by multiple families for infant congestion. Easy to use.",
+      "tags": ["nasal aspirator", "congestion", "sick baby", "infant"]
     },
     {
       "id": "39",
-      "category": "Baby Classes & Activities",
-      "title": "Puppetsberg Shows (Pop-Up)",
-      "content": "Pop-up puppet shows around NYC. Find schedule and ticket info via HiSawyer.com.",
-      "tags": ["puppet-show", "toddler", "pop-up", "nyc"]
+      "category": "Baby Products & Gear",
+      "title": "Guava Lotus travel crib — portable, fits in overhead bin",
+      "content": "Guava Lotus travel crib is highly recommended. Small enough to carry on as a carry-on bag (fits in overhead compartment), avoiding checked baggage issues. Compatible with Slumber Pod for blackout sleep.",
+      "tags": ["travel", "crib", "carry-on", "portable", "guava"]
     },
     {
       "id": "40",
-      "category": "Baby Classes & Activities",
-      "title": "Tot Shabbat — Stephen Wise Free Synagogue (68th St)",
-      "content": "Tot Shabbat programs for babies and toddlers at Stephen Wise Free Synagogue on 68th St. Very welcoming.",
-      "tags": ["jewish", "shabbat", "toddler", "68th-street", "UWS"]
+      "category": "Baby Products & Gear",
+      "title": "Halo breathable mesh crib — prevents leg-entrapment",
+      "content": "Halo breathable mesh crib is good for babies in the leg-entrapment phase. A popular safe sleep option.",
+      "tags": ["crib", "mesh", "safe sleep", "halo"]
     },
     {
       "id": "41",
-      "category": "Baby Classes & Activities",
-      "title": "Rodeph Sholom — Baby & Toddler Programming",
-      "content": "Congregation Rodeph Sholom on UWS offers great Jewish programming for babies and kids. Very welcoming to all families, including interfaith and same-sex couples.",
-      "tags": ["jewish", "music", "toddler", "UWS", "welcoming"]
+      "category": "Baby Products & Gear",
+      "title": "Huckleberry app — sleep tracking and wake window predictions",
+      "content": "Huckleberry app is highly recommended for tracking baby sleep, predicting wake windows, and getting personalized sleep schedules.",
+      "tags": ["sleep", "app", "tracking", "wake windows"]
     },
     {
       "id": "42",
-      "category": "Baby Classes & Activities",
-      "title": "Met Museum Playroom (81st St — free for walkers)",
-      "content": "Free playroom at the Metropolitan Museum on 81st St. Great for toddlers who are walking. Good rainy day option. Free with museum admission.",
-      "tags": ["museum", "play", "free", "toddler", "walkers", "81st-street", "UES"]
+      "category": "Baby Products & Gear",
+      "title": "IKEA Antilop high chair — $25, great for small apartments",
+      "content": "IKEA Antilop high chair ($25) is highly recommended for small NYC apartments. Lightweight, easy to move around. Add the cushion insert ($10) for babies who need more support. Add a footrest from Yeah Baby Goods ($24) for toddlers.",
+      "tags": ["high chair", "small space", "nyc", "affordable", "ikea"]
     },
     {
       "id": "43",
       "category": "Baby Products & Gear",
-      "title": "Formula: By Heart — Good for Transition",
-      "content": "By Heart formula recommended for transitioning from breastmilk. Well-tolerated by babies. Tip: give a new formula 6+ days before deciding if it works — allow time for adjustment.",
-      "tags": ["formula", "breastfeeding", "transition", "by-heart"]
+      "title": "Konny carrier — soft wrap-style, easy to put on",
+      "content": "Konny carrier is a soft wrap-style carrier that is very easy to put on without gymnastics. Great for newborns.",
+      "tags": ["carrier", "wrap", "newborn", "babywearing"]
     },
     {
       "id": "44",
       "category": "Baby Products & Gear",
-      "title": "Formula: European Options (Holle, Hipp, Kendamil)",
-      "content": "European formulas highly recommended. Holle and Hipp available via formulaland.com or organicsbest.com. Hipp HA (hypoallergenic) version good for sensitive babies. Kendamil available at Target — organic, goat milk option available.",
-      "tags": ["formula", "european", "organic", "holle", "hipp", "kendamil", "target", "hypoallergenic"]
+      "title": "Momcozy bottle washer/sterilizer — compact, needs sink access",
+      "content": "Momcozy bottle washer and sterilizer is smaller than Baby Brezza, holds more bottles, but requires access to a sink.",
+      "tags": ["bottle washer", "sterilizer", "momcozy", "feeding"]
     },
     {
       "id": "45",
       "category": "Baby Products & Gear",
-      "title": "Bottles: Dr. Brown's Wide Mouth — Best for Gassiness",
-      "content": "Dr. Brown's wide mouth bottles recommended over narrow for gassiness. Use without the inner straw insert if baby is not gassy — simpler and still effective. Widely used.",
-      "tags": ["bottles", "gassy", "dr-browns", "wide-mouth", "feeding"]
+      "title": "Nuna Pipa car seat — works without base in NYC cabs",
+      "content": "Nuna Pipa infant car seat works without a base, making it great for NYC taxis and rideshares.",
+      "tags": ["car seat", "infant", "no base", "nuna pipa", "cab", "nyc"]
     },
     {
       "id": "46",
       "category": "Baby Products & Gear",
-      "title": "Bottles: Pigeon — Best for Breast-to-Bottle Transition",
-      "content": "Pigeon bottles recommended for breastfed babies transitioning to bottle. The nipple shape mimics breast most closely. Multiple moms had success after other bottles failed.",
-      "tags": ["bottles", "breastfeeding", "breast-to-bottle", "pigeon", "feeding"]
+      "title": "NozeBot electric nasal aspirator — best for intense congestion",
+      "content": "Dr. NozeBot electric nasal aspirator is recommended for intense head colds and congestion. Do not use too frequently as it can irritate baby's nose. Works very well before bedtime.",
+      "tags": ["nasal aspirator", "congestion", "sick baby", "nozebot"]
     },
     {
       "id": "47",
       "category": "Baby Products & Gear",
-      "title": "Bottles: Comotomo — Good for Gassy Babies",
-      "content": "Comotomo silicone bottles recommended for gassy babies. Soft, squeezable body. Available at most baby stores.",
-      "tags": ["bottles", "gassy", "comotomo", "silicone", "feeding"]
+      "title": "Portier carrier — Australian brand, baby happy for hours",
+      "content": "Portier carrier (Australian brand) is highly regarded — babies wear it happily for extended periods.",
+      "tags": ["carrier", "babywearing", "portier", "australian"]
     },
     {
       "id": "48",
       "category": "Baby Products & Gear",
-      "title": "Bottles: Lansinoh Natural Wave Nipples",
-      "content": "Lansinoh Natural Wave nipples immediately accepted by breastfed babies who refused other bottles. Worth trying for breast-to-bottle transition.",
-      "tags": ["bottles", "breastfeeding", "breast-to-bottle", "lansinoh", "nipples", "feeding"]
+      "title": "Slumber Pod — blackout sleep tent for travel",
+      "content": "Slumber Pod creates a dark sleeping environment for travel. Best introduced young — older babies may feel claustrophobic. Compatible with Guava Lotus travel crib.",
+      "tags": ["travel", "blackout", "sleep", "slumber pod", "crib"]
     },
     {
       "id": "49",
       "category": "Baby Products & Gear",
-      "title": "Bottles: EvenFlo Balance — Available at TJ Maxx Columbus",
-      "content": "EvenFlo Balance bottles are a good affordable option available at TJ Maxx on Columbus Ave. Anti-colic design.",
-      "tags": ["bottles", "affordable", "evenflo", "tj-maxx", "feeding"]
+      "title": "SNOO rental tips — how many sacks and sheets to get",
+      "content": "SNOO tips from experienced parents: (1) Start with what comes in the rental before buying extra. (2) Get 2-3 Small sacks (more if baby has reflux or no in-unit laundry). (3) 2 Medium sacks is enough for most. (4) Hold off on Large sacks — many babies transition out of SNOO before needing them. (5) 2-3 sheets minimum; more if no in-unit washer/dryer.",
+      "tags": ["snoo", "sleep", "newborn", "bassinet", "tips"]
     },
     {
       "id": "50",
       "category": "Baby Products & Gear",
-      "title": "Magic Merlin Sleep Sack — Swaddle Transition",
-      "content": "Helps bridge the swaddle-to-sleep-sack transition. Thick, restrictive design reduces the moro (startle) reflex. Use between traditional swaddle and arms-free sleep sack. Works well for babies who startle awake.",
-      "tags": ["sleep", "swaddle", "merlin", "sleep-sack", "moro-reflex", "transition"]
+      "title": "Toki Mat — best soft play mat, great cushioning",
+      "content": "Toki Mat is highly recommended as the softest and most cushioned play mat option. Especially good once babies start toppling when learning to sit.",
+      "tags": ["play mat", "floor mat", "baby", "toki mat"]
     },
     {
       "id": "51",
       "category": "Baby Products & Gear",
-      "title": "Halo Sleep Sack — Arms-Out Transition Sack",
-      "content": "Good transitional sleep sack from swaddle to arms-free. Progress: both arms in → one arm out → both arms out. Works well after Magic Merlin stage.",
-      "tags": ["sleep", "swaddle", "halo", "sleep-sack", "transition"]
+      "title": "Totter and Tumble — play mat that doubles as living room rug",
+      "content": "Totter and Tumble is the go-to recommendation for a play mat that also serves as a living room area rug. Stays firmly in place without a non-slip liner.",
+      "tags": ["play mat", "rug", "living room", "totter and tumble"]
     },
     {
       "id": "52",
       "category": "Baby Products & Gear",
-      "title": "Snoo Smart Sleeper — Rent or Buy Used",
-      "content": "Smart bassinet that auto-responds to baby fussing. Can rent from Happiest Baby. Used Snoos go for ~$450 on Facebook Marketplace. Return when done. Very popular among NYC families.",
-      "tags": ["bassinet", "sleep", "snoo", "rental", "newborn"]
+      "title": "Baby new parent prep list (Google Sheet) — 30+ years experience",
+      "content": "A nurse with over 30 years of experience compiled a baby prep item list shared as a Google Sheet. https://docs.google.com/spreadsheets/d/1CsQ3ViTCoUQY0PlkH0AVdX4vfi0yNDfLZZ5Ztdipgps/edit?usp=sharing",
+      "tags": ["prep list", "newborn", "registry", "tips", "nurse"]
     },
     {
       "id": "53",
-      "category": "Baby Products & Gear",
-      "title": "Guava Lotus Travel Crib — Lightweight with Side Zipper",
-      "content": "Lightweight travel crib with side zipper entry for easy access at night. Mattress may be too thin for some babies — bring an extra mat. Pairs well with Slumberpod for room sharing.",
-      "tags": ["travel-crib", "travel", "guava-lotus", "compact", "lightweight"]
+      "category": "Beauty & Personal Care",
+      "title": "Chi Li Acupuncture Center — 94th & Broadway, induction acupuncture",
+      "content": "Chi Li Acupuncture Center at 94th and Broadway. Old-school Chinese medicine, no frills. Known for pregnancy acupuncture and reflexology. Multiple moms went into labor shortly after appointments.",
+      "tags": ["acupuncture", "induction", "pregnancy", "reflexology", "94th broadway"]
     },
     {
       "id": "54",
-      "category": "Baby Products & Gear",
-      "title": "Slumberpod — Portable Blackout Cover for Cribs",
-      "content": "Blackout canopy that fits over a pack-n-play or Lotus travel crib. Great for room-sharing while traveling. Compact enough to pack in a suitcase.",
-      "tags": ["travel", "sleep", "blackout", "slumberpod", "travel-crib", "portable"]
+      "category": "Beauty & Personal Care",
+      "title": "Columbus Circle Fertility Acupuncture — Kimin, pregnancy specialist",
+      "content": "Kimin at Columbus Circle Fertility Acupuncture is highly recommended for pregnancy acupuncture and IVF support.",
+      "tags": ["acupuncture", "ivf", "pregnancy", "columbus circle"]
     },
     {
       "id": "55",
-      "category": "Baby Products & Gear",
-      "title": "Doona — Stroller/Car Seat Combo (Good for Uber, Bad on Cobblestones)",
-      "content": "Stroller that converts from/to a car seat. Very convenient for Ubers. However rides rough on cobblestone streets and NYC uneven sidewalks. Best for car-heavy travel destinations.",
-      "tags": ["stroller", "car-seat", "doona", "travel", "uber"]
+      "category": "Beauty & Personal Care",
+      "title": "Fire Over Water acupuncture — Dr. Christine, pregnancy specialist",
+      "content": "Fire Over Water acupuncture clinic. Dr. Christine is recommended for pregnancy acupuncture. https://fireoverwater.com",
+      "tags": ["acupuncture", "pregnancy", "fire over water"]
     },
     {
       "id": "56",
-      "category": "Baby Products & Gear",
-      "title": "Cosco Scenera / Extend — Lightweight Travel Car Seat",
-      "content": "Lightest car seat option for taxis/Ubers. Original Scenera discontinued June 2025 — replaced by Cosco Extend (same concept). Still available at Walmart. Maxi Cosi Romi is an alternative. Nuna Pipa Lite Rx also works without base for NYC use.",
-      "tags": ["car-seat", "travel", "taxi", "uber", "lightweight", "cosco"]
+      "category": "Beauty & Personal Care",
+      "title": "Glowbar — 100th & Columbus, quick facials",
+      "content": "Glowbar at 100th and Columbus Avenue offers quick, affordable facials. Popular among UWS moms.",
+      "tags": ["facial", "skincare", "100th columbus", "uws"]
     },
     {
       "id": "57",
-      "category": "Baby Products & Gear",
-      "title": "Baby Carriers: Solly Wrap, Ergo Embrace, Baby Bjorn Mini, Konny",
-      "content": "Carrier recommendations from UWS moms: Solly Wrap (newborns, stretchy), Ergo Embrace (starts at 8 lbs, easy), Baby Bjorn Mini (easy solo, structured), Konny (easy like a wrap, soft, no fussing). Always follow TICKS safety guidelines. Check @letstalkbabywearing on Instagram.",
-      "tags": ["carrier", "babywearing", "newborn", "TICKS", "solly", "ergo", "bjorn", "konny"]
+      "category": "Beauty & Personal Care",
+      "title": "Harlem Chi Acupuncture — chronic pain and pregnancy support",
+      "content": "Harlem Chi Acupuncture is recommended for managing chronic pain during pregnancy and for late-pregnancy induction support. https://harlemchi.com",
+      "tags": ["acupuncture", "pregnancy", "chronic pain", "harlem"]
     },
     {
       "id": "58",
-      "category": "Baby Products & Gear",
-      "title": "Huckleberry App — Sleep Tracking & Nap Predictions",
-      "content": "App that predicts optimal nap windows based on baby's wake times and tracks feedings, sleep, and diapers. Highly recommended by multiple moms for managing sleep schedules. Especially helpful for the 6-week sleep regression.",
-      "tags": ["sleep", "app", "huckleberry", "nap", "tracking", "feeding"]
+      "category": "Beauty & Personal Care",
+      "title": "Korabel Nails — mobile nail tech, home visits",
+      "content": "Mobile nail technician offering home visits. Does Russian manicure and pedicure. Great for new moms who cannot easily leave home. https://www.instagram.com/korabel_nails",
+      "tags": ["nails", "manicure", "pedicure", "home visit", "mobile"]
     },
     {
       "id": "59",
-      "category": "Baby Products & Gear",
-      "title": "Hatch Go — Portable White Noise Machine",
-      "content": "Portable white noise machine great for travel. Rechargeable, compact. Multiple volume and sound options. Popular travel companion.",
-      "tags": ["white-noise", "sleep", "travel", "hatch", "portable"]
+      "category": "Beauty & Personal Care",
+      "title": "Remedy Massage (82nd & Columbus) — prenatal and general massage",
+      "content": "Remedy Massage at 82nd and Columbus Avenue. Offers prenatal massages and general massage treatments. Highly recommended.",
+      "tags": ["massage", "prenatal", "82nd columbus", "uws"]
     },
     {
       "id": "60",
-      "category": "Baby Products & Gear",
-      "title": "Dr. Brown's Microwave Sterilizer + Sterilizer Bags",
-      "content": "Microwave sterilizer bowl that fits a lot of bottles/parts at once. Also: Medela and Haakaa make microwave sterilizer bags that are great for travel or quick sterilization. Momcozy and Baby Brezza bottle washers also popular.",
-      "tags": ["sterilizer", "bottles", "feeding", "travel", "microwave"]
+      "category": "Beauty & Personal Care",
+      "title": "Salon Riz — hair coloring, UWS",
+      "content": "Salon Riz is recommended for hair coloring on the UWS, particularly for brunettes.",
+      "tags": ["hair", "color", "salon", "uws"]
     },
     {
       "id": "61",
-      "category": "Baby Products & Gear",
-      "title": "Lovevery Play Mat + Skip Hop Bandana Buddies",
-      "content": "Lovevery play mat is widely popular. Pairs well with a foldable wooden playpen from Amazon to contain the space. Add Skip Hop Bandana Buddies chime toy for attachment. Good tummy time and play setup.",
-      "tags": ["play-mat", "lovevery", "tummy-time", "infant", "playpen"]
+      "category": "Childcare & Nannies",
+      "title": "All My Children Daycare — 91st & Amsterdam, director Carly",
+      "content": "All My Children Daycare and Nursery School at 91st and Amsterdam. Director is Carly. Highly praised by multiple families. https://maps.app.goo.gl/K5didtMcPuq3qijS8",
+      "tags": ["daycare", "infant", "toddler", "91st amsterdam", "uws"]
     },
     {
       "id": "62",
-      "category": "Baby Products & Gear",
-      "title": "ToddleKind Puzzle Play Mats (Earth Clay color)",
-      "content": "Premium foam puzzle piece play mats. Earth Clay color recommended as most neutral/aesthetically pleasing. Alternative to House of Noa mats. Easy to clean, soft underfoot.",
-      "tags": ["play-mat", "foam", "toddlekind", "neutral-colors", "easy-clean"]
+      "category": "Childcare & Nannies",
+      "title": "Avery — babysitter, Red Cross certified, flexible",
+      "content": "Avery is a babysitter who is Red Cross certified and flexible. Contact: 864-991-7848. Good for 8 months+.",
+      "tags": ["babysitter", "red cross", "flexible", "uws"]
     },
     {
       "id": "63",
-      "category": "Baby Products & Gear",
-      "title": "Cardinal Gates SS30 — Top-Rated Stairway Baby Gate",
-      "content": "Top-rated baby gate for stairs per Wirecutter. Hardware-mounted, very sturdy. Best option for top of stairs.",
-      "tags": ["baby-gate", "safety", "stairs", "cardinal-gates", "wirecutter"]
+      "category": "Childcare & Nannies",
+      "title": "Bright Horizons Columbus Circle — WARNING: child abuse investigation 2025",
+      "content": "Bright Horizons at Columbus Circle had a child abuse investigation in 2025 (staff gave baby a cup of bleach water, plus prior incidents). Multiple moms advise strongly against this location. The Bright Horizons at West 89th has reportedly been a very different, positive experience.",
+      "tags": ["daycare", "warning", "bright horizons", "columbus circle", "avoid"]
     },
     {
       "id": "64",
-      "category": "Baby Products & Gear",
-      "title": "DaVinci Piper / Babyletto Kiwi — Compact Gliders for Small Apartments",
-      "content": "Best glider options for NYC apartments: DaVinci Piper and Babyletto Kiwi are compact but still comfortable. Good for tight nursery spaces.",
-      "tags": ["glider", "nursery", "small-space", "davinci", "babyletto"]
+      "category": "Childcare & Nannies",
+      "title": "Elisa Baker — experienced nanny/night nurse, 27+ years",
+      "content": "Elisa Baker is an experienced nanny and night nurse with 27+ years of experience. Specializes in child development. Contact: 917-260-9111.",
+      "tags": ["night nurse", "nanny", "experienced", "newborn", "infant"]
     },
     {
       "id": "65",
-      "category": "Baby Products & Gear",
-      "title": "Spectra S2 Breast Pump — Most Popular",
-      "content": "Spectra S2 is the most commonly recommended breast pump. Covered by most insurance. Quieter and more effective than basic hospital pumps for many moms.",
-      "tags": ["pump", "breastfeeding", "spectra", "insurance-covered"]
+      "category": "Childcare & Nannies",
+      "title": "Goddard School — 73rd and 93rd UWS locations",
+      "content": "Goddard School has two UWS locations (73rd Street and 93rd Street). Both have been recommended by families. Director at one location was praised as lovely.",
+      "tags": ["daycare", "preschool", "uws", "73rd", "93rd", "goddard"]
     },
     {
       "id": "66",
-      "category": "Baby Products & Gear",
-      "title": "Windi — Gas Relief for Babies",
-      "content": "Windi is a small rectal gas relief tube for babies. Works quickly for trapped gas and fussiness. Used with Vaseline. Many moms swear by it for gassy, uncomfortable babies.",
-      "tags": ["gas", "infant", "relief", "windi", "colic"]
+      "category": "Childcare & Nannies",
+      "title": "Happy Toddlers Playgroup — in-home daycare, 95th & Columbus",
+      "content": "Happy Toddlers Playgroup is a small in-home daycare at 95th and Columbus. Highly praised for attentive care, creativity, and helping kids become very verbal and social. Has a waiting list but worth checking. Toddler spots available.",
+      "tags": ["daycare", "in-home", "toddler", "95th columbus", "uws"]
     },
     {
       "id": "67",
-      "category": "Baby Products & Gear",
-      "title": "First Water Cups: Honey Bear Cup, Nuby Silicone, Contigo",
-      "content": "Progression for first water cups: Honey Bear Cup (great for teaching straw drinking, squeeze to help), Nuby Silicone Cup (good starter at 6 months+), Contigo Kids Water Bottle (once straw mastered). All recommended by UWS moms.",
-      "tags": ["water-cup", "straw", "6-months-plus", "honey-bear", "nuby", "contigo", "BLW"]
+      "category": "Childcare & Nannies",
+      "title": "La Maternelle — 64th and 97th locations, French-style daycare",
+      "content": "La Maternelle French-style daycare has locations at 64th and 97th Streets. Generally well-regarded after tours. Note: registration form asks for mother/father — worth clarifying for same-sex families. Reddit notes mentioned concerns about outdoor time at 97th location.",
+      "tags": ["daycare", "french", "64th", "97th", "uws"]
     },
     {
       "id": "68",
-      "category": "Baby Products & Gear",
-      "title": "Swimways Baby Spring Float — Pool Float",
-      "content": "Great baby pool float for swim programs and hotel pools. Keeps baby upright in water. Good for parent-me swim classes.",
-      "tags": ["swim", "pool", "float", "travel", "swimways"]
+      "category": "Childcare & Nannies",
+      "title": "Metrokids — 64th & Riverside Dr, indoor playground, homemade food",
+      "content": "Metrokids daycare at 64th between Riverside Drive and West End Avenue. Features indoor playground and homemade food. Multiple infant classrooms so kids are closer in age. Mixed reviews — some love it, especially for 1-year-old program. Quality may depend significantly on which teacher your child gets. More affordable than many other daycares.",
+      "tags": ["daycare", "infant", "toddler", "64th", "riverside", "affordable"]
     },
     {
       "id": "69",
-      "category": "Baby Products & Gear",
-      "title": "Travel Sterilization: Milton Tablets + Collapsible Basin",
-      "content": "For travel, Milton sterilizing tablets + a collapsible basin are the easiest hotel solution. No microwave needed. Soak bottles for 15 minutes, rinse, done. Compact to pack.",
-      "tags": ["sterilizer", "travel", "milton", "bottles", "portable"]
+      "category": "Childcare & Nannies",
+      "title": "Mommy Bites — babysitter referral website, parents-only recs",
+      "content": "Mommy Bites is a babysitter recommendation website where only parents post genuine recommendations. $100 to post. Good quality filter. Check mommybites.com for NYC babysitter referrals.",
+      "tags": ["babysitter", "referral", "website", "nyc"]
     },
     {
       "id": "70",
-      "category": "Baby Products & Gear",
-      "title": "Portable Baby Gate for Travel (Twist-Knob, No Marks)",
-      "content": "Portable twist-knob baby gate that doesn't leave marks. Folds into a single rod — fits in suitcase. Great for vacation home stairs. Amazon: https://a.co/d/9BHQvoI",
-      "tags": ["baby-gate", "travel", "safety", "portable", "stairs"]
+      "category": "Childcare & Nannies",
+      "title": "Morgan Robbins — babysitter, musical theatre student at PACE",
+      "content": "Morgan Robbins is a babysitter studying musical theatre at PACE University. Good for babies 8 months+. Contact: 818-441-6067.",
+      "tags": ["babysitter", "uws", "8 months"]
     },
     {
       "id": "71",
-      "category": "Baby Products & Gear",
-      "title": "Inflatable Bed Rail for Travel (PVC-Free)",
-      "content": "PVC-free inflatable bed rail for toddlers in hotel beds. Inflates by mouth, deflates by rolling, fits in a tiny bag. Slide under bedsheet to create a high edge. Amazon: https://a.co/d/gK81uiL",
-      "tags": ["travel", "toddler", "bed-rail", "safety", "portable", "hotel"]
+      "category": "Childcare & Nannies",
+      "title": "Nanny compensation standards — 2025 NYC rates",
+      "content": "Typical UWS nanny rates: $25-32/hr for one child. ~$32/hr for two children. Guarantee 40 hours/week minimum. Time and a half over 40 hours. 2 weeks bonus at year-end is standard. ~$1/year raise minimum. Paying cash creates unemployment tax liability issues. Use nannytax.com or similar. Park Slope Parents 2025 Nanny Pay Survey: https://www.parkslopeparents.com/Nanny-Pay-Surveys/the-2025-park-slope-parents-nanny-pay-survey-results.html",
+      "tags": ["nanny", "pay", "compensation", "rates", "taxes", "2025"]
     },
     {
       "id": "72",
-      "category": "Baby Products & Gear",
-      "title": "NUULY + Rent the Runway — Maternity & Postpartum Clothes",
-      "content": "NUULY rental service works well for maternity clothes — rotate styles without buying. Rent the Runway great for maternity work clothes, especially dresses and blazers when your body is changing size frequently postpartum.",
-      "tags": ["maternity", "clothes", "rental", "nuuly", "rent-the-runway", "postpartum"]
+      "category": "Childcare & Nannies",
+      "title": "Riverside Daycare — W 62nd, family-run option",
+      "content": "Riverside Daycare on West 62nd Street. https://www.riversidedaycare.family/",
+      "tags": ["daycare", "62nd", "uws", "infant"]
     },
     {
       "id": "73",
-      "category": "Beauty & Personal Care",
-      "title": "Keith Magnussen — Curly Hair Specialist (79th & Broadway)",
-      "content": "Curly hair specialist now at Curl Divinity salon on 79th and Broadway. Previously at DevaChan. Highly recommended for curly hair cuts and care.",
-      "tags": ["hair", "curly-hair", "salon", "79th-street", "broadway", "UWS"]
+      "category": "Childcare & Nannies",
+      "title": "Sprouts in-home daycare — 94th & West End Ave",
+      "content": "Sprouts is a small in-home daycare at 94th and West End Avenue. Lovely space. Contact director Daisy for availability.",
+      "tags": ["daycare", "in-home", "94th", "west end", "uws"]
     },
     {
       "id": "74",
-      "category": "Beauty & Personal Care",
-      "title": "Roz at Bumble & Bumble — Midtown Hair",
-      "content": "Roz at Bumble & Bumble midtown recommended for hair styling. Good for all hair types.",
-      "tags": ["hair", "salon", "midtown", "bumble-bumble"]
+      "category": "Childcare & Nannies",
+      "title": "Twin Parks Riverside — Montessori daycare, UWS, 2+ years",
+      "content": "Twin Parks Riverside is a Montessori daycare on the UWS. Families very happy with it. Convenient for neighborhood families — proximity is a major perk during phasing-in period.",
+      "tags": ["daycare", "montessori", "toddler", "2 years", "uws", "twin parks"]
     },
     {
       "id": "75",
-      "category": "Beauty & Personal Care",
-      "title": "Tess at Fox and Jane — East Village Hair",
-      "content": "Tess at Fox and Jane salon in the East Village recommended for hair.",
-      "tags": ["hair", "salon", "east-village", "fox-and-jane"]
+      "category": "Childcare & Nannies",
+      "title": "Vivvi — WEA & 92nd/93rd, excellent teacher-student ratio",
+      "content": "Vivvi daycare at West End Avenue and 92nd/93rd Street. Amazing teacher-student ratio. Highly praised. https://vivvi.com",
+      "tags": ["daycare", "infant", "toddler", "wea", "92nd", "uws", "vivvi"]
     },
     {
       "id": "76",
-      "category": "Beauty & Personal Care",
-      "title": "Salon Riz — Affordable Hair Color (UWS)",
-      "content": "Recommended for brunettes wanting affordable hair color on the UWS. Good value.",
-      "tags": ["hair", "salon", "UWS", "affordable", "color"]
+      "category": "Childcare & Nannies",
+      "title": "Wonderschool.com — NYC in-home daycare finder",
+      "content": "Wonderschool.com lists many in-home daycares in NYC. Good starting resource for finding options. http://www.wonderschool.com/ny/nyc",
+      "tags": ["daycare", "in-home", "nyc", "finder", "resource"]
     },
     {
       "id": "77",
-      "category": "Beauty & Personal Care",
-      "title": "Erin Gonzalez Photography — Family & Milestone Photos",
-      "content": "UWS mom and professional photographer. Great for family photos, birthday and milestone photos, cake smash sessions. Website: eringonzalezphotography.com",
-      "tags": ["photography", "family-photos", "milestone", "cake-smash", "UWS"]
+      "category": "Childcare & Nannies",
+      "title": "Workplayce — infant daycare, W 70th & Broadway",
+      "content": "Workplayce at W 70th and Broadway is an infant daycare that has been highly praised. Also hosts community events like Family Cafe mornings.",
+      "tags": ["daycare", "infant", "70th broadway", "uws", "workplayce"]
     },
     {
       "id": "78",
-      "category": "Beauty & Personal Care",
-      "title": "Patricia Freire Photography — Great with Difficult Moods",
-      "content": "Recommended NYC family photographer known for working well with babies and toddlers in difficult moods. Website: patriciafreirephotography.com",
-      "tags": ["photography", "family-photos", "milestone", "toddler", "nyc"]
+      "category": "Dentists",
+      "title": "71st Street Smiles Dental Care — W 71st, small practice, no overtreatment",
+      "content": "71st Street Smiles Dental Care on West 71st Street. Everyone is nice and professional. Small practice, does not overtreat.",
+      "tags": ["dentist", "adult", "uws", "71st", "small practice"]
     },
     {
       "id": "79",
-      "category": "Childcare & Nannies",
-      "title": "Manhattan Valley Pediatrics (MVP) — Overwhelmingly Recommended Practice",
-      "content": "The most recommended pediatric practice among UWS moms across all groups. Located on 100th St. Multiple excellent doctors: Dr. Hoffman (very popular), Dr. Gati, Dr. Emanuel (Wednesdays/Fridays only — check schedule if returning to work), Dr. Grant, Dr. Nowell, Dr. Saha, Dr. Svensson. NP Rebecca also well-regarded. Always a doctor on call.",
-      "tags": ["pediatrician", "MVP", "manhattan-valley", "100th-street", "UWS", "highly-recommended"]
+      "category": "Dentists",
+      "title": "Central Park West Pediatric Dentistry — 440 WEA, Dr. Alexis Cohen",
+      "content": "Central Park West Pediatric Dentistry at 440 West End Avenue. See Dr. Alexis Cohen. Recommended by multiple pediatricians for first dental visits. Tree House Dentistry also recommended alongside this practice.",
+      "tags": ["pediatric dentist", "440 wea", "dr alexis cohen", "uws"]
     },
     {
       "id": "80",
-      "category": "Childcare & Nannies",
-      "title": "Nanny Elisa Baker — Night Nurse / Newborn Specialist",
-      "content": "Nanny and night nurse with 27+ years experience. Child development specialist. Highly trusted. Contact: 917-260-9119.",
-      "tags": ["nanny", "night-nurse", "newborn", "experienced"]
+      "category": "Dentists",
+      "title": "Dr. Chun Lee (dental) — fair, never overtreats",
+      "content": "Dr. Chun Lee is recommended as a dentist who is fair and never overtreats. Great administrative team. https://maps.app.goo.gl/f2pDpekmEcx6vWUr5",
+      "tags": ["dentist", "adult", "uws", "dr chun lee"]
     },
     {
       "id": "81",
-      "category": "Childcare & Nannies",
-      "title": "Housekeeper/Nanny Irma — Reliable & Great with Pets",
-      "content": "Housekeeper who is also great with babies and cats. $28–29/hr, flat rate $150 for 4 hours. Very reliable. Contact: +1 (646) 571-7731.",
-      "tags": ["housekeeper", "nanny", "pets", "reliable", "UWS"]
+      "category": "Dentists",
+      "title": "Dr. Marcia Grossman — 85th & West End Ave, family + pediatric",
+      "content": "Dr. Marcia Grossman at 85th and West End Avenue. Calm, friendly, gentle. Handles both adult and pediatric dental work. Hygienist Beverly is detailed. Office manager very helpful with insurance.",
+      "tags": ["dentist", "pediatric dentist", "family dentist", "85th wea", "uws"]
     },
     {
       "id": "82",
-      "category": "Childcare & Nannies",
-      "title": "Frances Stewart Agency — Night Nurses (~$400/night)",
-      "content": "Night nurse agency. Expect ~$400/night for a 12-hour shift. Background checked. Good for newborn period.",
-      "tags": ["night-nurse", "newborn", "agency", "frances-stewart"]
+      "category": "Dentists",
+      "title": "Park Smiles — general and cosmetic dentistry, UWS",
+      "content": "Park Smiles does general dentistry despite marketing as cosmetic. https://maps.app.goo.gl/7FB7CUk96qufkC4t6",
+      "tags": ["dentist", "adult", "uws", "park smiles"]
     },
     {
       "id": "83",
-      "category": "Childcare & Nannies",
-      "title": "Broadway Babysitters — Reference & Background Checked",
-      "content": "Babysitter service with reference and background checks. Website: broadwaybabysitters.com. Good for occasional babysitting needs.",
-      "tags": ["babysitter", "background-checked", "UWS", "nyc"]
+      "category": "Dentists",
+      "title": "Rockefeller Dental Group — Dr. Bruce Levin",
+      "content": "Rockefeller Dental Group — Dr. Bruce Levin. https://rockefellerdentalgroup.com/team/bruce-levin/",
+      "tags": ["dentist", "adult", "midtown", "dr bruce levin"]
     },
     {
       "id": "84",
-      "category": "Childcare & Nannies",
-      "title": "UrbanSitter — Good in a Pinch",
-      "content": "UrbanSitter app recommended for finding last-minute babysitters. Good for occasional or urgent needs.",
-      "tags": ["babysitter", "app", "last-minute", "nyc"]
+      "category": "Doulas",
+      "title": "Kesmeel Davis — postpartum doula, maternaltransitions.com",
+      "content": "Kesmeel Davis is a highly recommended doula. Contact via https://maternaltransitions.com/",
+      "tags": ["doula", "postpartum", "birth", "uws"]
     },
     {
       "id": "85",
-      "category": "Childcare & Nannies",
-      "title": "Nanny Compensation Guide (NYC 2025)",
-      "content": "NYC nanny pay standard: start $25–32/hr, guarantee 40 hrs/week, time-and-a-half over 40 hrs. Minimum $1/hr raise per year, +$2 for second baby. Reference the Park Slope Parents 2025 Nanny Survey for current rates. Include paid vacation time in offer. Nanny taxes (nanny tax) are required by law for household employees.",
-      "tags": ["nanny", "compensation", "pay", "taxes", "nyc", "hiring"]
+      "category": "Doulas",
+      "title": "Luna Adler — birth doula, writes birth story, reasonable pricing",
+      "content": "Luna Adler is a highly praised birth doula. Does prenatal in-home nursery setup visit, is present throughout labor, and as a bonus writes a beautiful account of the birth story. Also helped with breastfeeding and connected with LC postpartum. Very reasonably priced. Email: lunajadler@gmail.com, Phone: (202) 751-1615.",
+      "tags": ["doula", "birth", "postpartum", "birth story", "luna adler"]
     },
     {
       "id": "86",
-      "category": "Childcare & Nannies",
-      "title": "La Maternelle Daycare (64th St) — French Immersion",
-      "content": "French-language daycare on 64th St. Generally loved by parents who toured. Has openings for 9 months to 2-year-olds. Worth touring early as spots fill fast. French immersion from infancy.",
-      "tags": ["daycare", "french", "64th-street", "infant", "immersion"]
+      "category": "Doulas",
+      "title": "NYC Birth Village — doula packages plus classes and lactation",
+      "content": "NYC Birth Village offers doula packages plus birth classes, support groups, and lactation sessions. Highly recommended. https://www.nycbirthvillage.com",
+      "tags": ["doula", "birth", "lactation", "classes", "nyc birth village"]
     },
     {
       "id": "87",
-      "category": "Childcare & Nannies",
-      "title": "Goddard School (93rd St) — Infant Rooms",
-      "content": "Goddard School on 93rd St has infant rooms. Positive experience from parents. Franchise model with generally consistent quality.",
-      "tags": ["daycare", "infant", "93rd-street", "UWS", "goddard"]
+      "category": "Doulas",
+      "title": "Tina Goldstein — postpartum doula, motherher.com, Brooklyn-based",
+      "content": "Tina Goldstein is highly recommended especially for premature births. Brooklyn-based but comes to other boroughs for additional fee. https://www.motherher.com",
+      "tags": ["doula", "postpartum", "premature", "brooklyn", "tina goldstein"]
     },
     {
       "id": "88",
-      "category": "Childcare & Nannies",
-      "title": "Vivvi Daycare (WEA at 92nd/93rd) — Favorable Ratios",
-      "content": "New Vivvi location on West End Ave near 92nd/93rd St. Very favorable staff-to-child ratios. Good infant program.",
-      "tags": ["daycare", "infant", "92nd-street", "93rd-street", "WEA", "UWS", "vivvi"]
+      "category": "Doulas",
+      "title": "The Budding Belly — Sam and Ildi, doula team",
+      "content": "Sam and Ildi at The Budding Belly are highly praised doulas. Multiple moms from the group used them. https://thebuddingbelly.com",
+      "tags": ["doula", "birth", "postpartum", "budding belly"]
     },
     {
       "id": "89",
-      "category": "Childcare & Nannies",
-      "title": "Bright Horizons Columbus Circle — AVOID",
-      "content": "AVOID: Bright Horizons at Columbus Circle was the site of a child abuse investigation and arrest. The 89th St Bright Horizons location has a very different reputation — that one is considered excellent.",
-      "tags": ["daycare", "warning", "avoid", "columbus-circle", "bright-horizons"]
+      "category": "Doulas",
+      "title": "The New York Baby / The New York Doula — postpartum and breastfeeding support",
+      "content": "The New York Baby and The New York Doula are run by Stephanie, who is very knowledgeable and empathetic. Great network. Focused on breastfeeding support. Director Stephanie handles special cases including stillbirth support. https://www.thenewyorkdoula.com / https://maps.app.goo.gl/CGLnrtFUukHDJ6nG9",
+      "tags": ["doula", "postpartum", "breastfeeding", "lactation", "new york doula"]
     },
     {
       "id": "90",
-      "category": "Childcare & Nannies",
-      "title": "Workplayce — Infant Daycare Option",
-      "content": "Workplayce is an infant daycare option on the UWS. Worth touring and comparing with other options.",
-      "tags": ["daycare", "infant", "UWS", "workplayce"]
+      "category": "Doulas",
+      "title": "Tiombe — birth and postpartum doula, Illuminating Doula",
+      "content": "Tiombe of Illuminating Doula offers birth and postpartum services and has an excellent team.",
+      "tags": ["doula", "birth", "postpartum", "illuminating doula", "tiombe"]
     },
     {
       "id": "91",
-      "category": "Childcare & Nannies",
-      "title": "Metrokids Daycare (64th St, Riverside/WEA)",
-      "content": "More affordable daycare option on 64th St between Riverside Dr and West End Ave. Lower cost than most UWS centers.",
-      "tags": ["daycare", "affordable", "64th-street", "UWS", "metrokids"]
+      "category": "Doulas",
+      "title": "Uptown Doulas — all LCs, year-long breastfeeding support",
+      "content": "Uptown Doulas are all lactation consultants. Maya is highly recommended — moms texted her for over a year postpartum for breastfeeding support. Puri and Sophia also praised. https://www.uptowndoulas.com",
+      "tags": ["doula", "lactation", "breastfeeding", "postpartum", "uptown doulas"]
     },
     {
       "id": "92",
       "category": "Fitness & Wellness",
-      "title": "FemFirst Health (73rd & Broadway) — Melissa Jeski, Pelvic Floor PT",
-      "content": "Highly recommended pelvic floor physical therapy. Melissa Jeski is excellent and has helped multiple moms through birth with no tearing using proper prep exercises. Located at 73rd & Broadway.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "prenatal", "73rd-street", "broadway", "UWS"]
+      "title": "AURA Yoga + Pilates — 239 W 72nd St, formerly UrbanNomad",
+      "content": "AURA Yoga + Pilates (formerly UrbanNomad) at 239 W 72nd Street. Hosts Mother's Circle events and outdoor pop-up yoga/Pilates classes. https://www.aurastudionyc.com/schedule/",
+      "tags": ["yoga", "pilates", "72nd", "uws", "prenatal", "postnatal"]
     },
     {
       "id": "93",
       "category": "Fitness & Wellness",
-      "title": "Zion PT (72nd St) — Cristina, Post-C-Section Specialist",
-      "content": "Zion Physical Therapy on 72nd St. Cristina is highly recommended especially for post-C-section recovery. Note: cannot do online booking — must call to schedule. Full-body approach.",
-      "tags": ["pelvic-floor", "PT", "c-section", "postpartum", "72nd-street", "UWS"]
+      "title": "Fire Studio — W 115th, mom strength training & yoga, 5x/week",
+      "content": "Fire Studio at West 115th Street. Mom Strength Training and Mom Yoga 5 days per week. Pre-crawler babies can be brought to class. Owner is Tiana Dottin.",
+      "tags": ["fitness", "strength training", "yoga", "mom", "baby-friendly", "115th", "fire studio"]
     },
     {
       "id": "94",
       "category": "Fitness & Wellness",
-      "title": "Spear Physical Therapy (75th St) — Tulsi, Nadia, Emily",
-      "content": "Spear PT on 75th St recommended. Therapists mentioned: Tulsi, Nadia Filipic (also at midtown Spear), Emily Prader. Good for pelvic floor and general postpartum rehab.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "75th-street", "spear", "UWS"]
+      "title": "Hells Kitchen Pilates — low-impact postpartum option",
+      "content": "Hells Kitchen Pilates is recommended for low-impact postpartum workouts. Recommended by a PT for postnatal recovery. https://maps.app.goo.gl/9ekJAm17zfKSB5F7",
+      "tags": ["pilates", "postpartum", "low impact", "hells kitchen"]
     },
     {
       "id": "95",
       "category": "Fitness & Wellness",
-      "title": "Helen Kim — Women's PT (W72nd) — Whole Body Focus",
-      "content": "Helen Kim on W72nd treats the whole body, not just pelvic floor. Good for chronic back pain from carrying and holding baby.",
-      "tags": ["PT", "pelvic-floor", "back-pain", "postpartum", "72nd-street", "UWS"]
+      "title": "Katelyn Baud (MOMBAUD) — pre/postnatal virtual and in-person training",
+      "content": "Katelyn Baud (MOMBAUD) specializes in prenatal and postnatal fitness. Virtual group classes Wednesday mornings. Also offers virtual and in-person sessions. https://www.instagram.com/themombaud",
+      "tags": ["fitness", "prenatal", "postnatal", "virtual", "in-person", "trainer"]
     },
     {
       "id": "96",
       "category": "Fitness & Wellness",
-      "title": "Pamela Morrison PT (65th & West End) — 70% Aetna Coverage",
-      "content": "Pamela Morrison at 65th and West End Ave. 70% covered by Aetna for reimbursement. Good for those with Aetna insurance needing pelvic floor PT.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "aetna", "insurance", "65th-street", "UWS"]
+      "title": "The Lotus Method — 408 Columbus Ave, pre/postnatal strength training",
+      "content": "The Lotus Method offers prenatal and postnatal strength training classes at 408 Columbus Ave (inside Cocoon). Use code UWSFREE for a free class. https://thelotusmethod.com/classes-new-york/",
+      "tags": ["fitness", "strength training", "prenatal", "postnatal", "408 columbus", "free class"]
     },
     {
       "id": "97",
       "category": "Fitness & Wellness",
-      "title": "Anuja Mathew DPT — Women's Only Practice (Midtown)",
-      "content": "Women's-only physical therapy practice in midtown. Out of network but highly recommended for pelvic floor and postpartum care.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "womens-only", "midtown", "out-of-network"]
+      "title": "Momentum Fitness — 72nd & Columbus, pay-per-trainer only",
+      "content": "Momentum Fitness at 72nd and Columbus. No membership fee — just pay the trainer. Ask for trainer Isabella Stansbury.",
+      "tags": ["fitness", "personal training", "72nd columbus", "uws", "no membership"]
     },
     {
       "id": "98",
       "category": "Fitness & Wellness",
-      "title": "Solstice PT (Midtown) — Erica, Lexi",
-      "content": "Solstice Physical Therapy in midtown. Erica and Lexi mentioned as good therapists. Out of network.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "midtown", "out-of-network"]
+      "title": "Morning Meeting — prenatal/postpartum near 95th & CPW, first class free",
+      "content": "Morning Meeting offers prenatal and postpartum workouts near 95th and Central Park West. First class free, then $25/class. Baby-friendly.",
+      "tags": ["fitness", "prenatal", "postnatal", "95th cpw", "baby-friendly"]
     },
     {
       "id": "99",
       "category": "Fitness & Wellness",
-      "title": "Marianne Ryan — Pelvic Floor PT (UWS-Adjacent)",
-      "content": "Well-regarded pelvic floor PT near UWS. Out of network. Recommended by multiple moms.",
-      "tags": ["pelvic-floor", "PT", "postpartum", "UWS", "out-of-network"]
+      "title": "Studio Pilates International — 6 classes for $60 introductory deal",
+      "content": "Studio Pilates International offers an introductory deal of 6 classes for $60. Highly recommended for postpartum fitness. https://maps.app.goo.gl/nu1xbFYKzR8cXJy89",
+      "tags": ["pilates", "postpartum", "intro deal", "uws"]
     },
     {
       "id": "100",
       "category": "Fitness & Wellness",
-      "title": "Cynergy / Wellness Den (UES) — Pilates Reformer PT",
-      "content": "Physical therapy practice using Pilates reformer equipment. Located on UES but accessible via crosstown bus. Good for those who prefer Pilates-based rehab.",
-      "tags": ["pelvic-floor", "PT", "pilates", "postpartum", "UES", "reformer"]
+      "title": "Tasha Ingram Fitness — personal trainer",
+      "content": "Tasha Ingram Fitness offers personal training. Recommended by UWS moms. https://tashaingramfitness.com/",
+      "tags": ["personal training", "fitness", "uws"]
     },
     {
       "id": "101",
-      "category": "Fitness & Wellness",
-      "title": "Liza at Rock-a-Bye Baby Sleep Consulting — Life Changer",
-      "content": "Sleep consultant Liza from Rock-a-Bye Baby is described as a 'life changer' by multiple moms. Offers 'ask me anything' calls. Good for sleep training, schedule setting, and regressions.",
-      "tags": ["sleep-training", "sleep-consultant", "liza", "rock-a-bye-baby"]
+      "category": "Home Services",
+      "title": "Irene (cleaner) — 1BR $180, 2BR $250, also babysits",
+      "content": "Irene is a highly recommended cleaner. 1 bedroom: $180. 2 bedrooms: $250. Flexible frequency. Also a trustworthy babysitter and cleans commercial spaces. Phone: 347-355-5526.",
+      "tags": ["cleaner", "housekeeping", "irene", "uws", "babysitter"]
     },
     {
       "id": "102",
-      "category": "Fitness & Wellness",
-      "title": "Taking Cara Babies — Sleep Training Approach",
-      "content": "Taking Cara Babies online program recommended for sleep training. Particularly helpful for room transitions and establishing sleep schedules. Course-based learning format.",
-      "tags": ["sleep-training", "taking-cara-babies", "schedule", "room-transition"]
+      "category": "Home Services",
+      "title": "Marlena (cleaner) — recommended by UWS moms",
+      "content": "Marlena is a recommended cleaner in the UWS. Contact: +1 (917) 818-9367.",
+      "tags": ["cleaner", "housekeeping", "marlena", "uws"]
     },
     {
       "id": "103",
-      "category": "Fitness & Wellness",
-      "title": "Ashley Culver / Lift NYC — Personal Trainer (Pre/Postnatal)",
-      "content": "Personal trainer recommended by multiple moms for pregnancy and postpartum strength training. Search 'Ashley Culver Lift NYC' for contact info.",
-      "tags": ["personal-trainer", "strength-training", "prenatal", "postnatal", "nyc"]
+      "category": "Home Services",
+      "title": "MB Green Cleaning — deep cleaning service",
+      "content": "MB Green Cleaning offers deep cleaning services in NYC. https://www.mbgreencleaning.com",
+      "tags": ["cleaning", "deep clean", "nyc", "mb green"]
     },
     {
       "id": "104",
-      "category": "Fitness & Wellness",
-      "title": "Norvis — Postpartum Massage (UWS)",
-      "content": "Highly recommended massage therapist for postpartum recovery. Located on the UWS.",
-      "tags": ["massage", "postpartum", "wellness", "UWS"]
+      "category": "Home Services",
+      "title": "Rosario (cleaner) — highly recommended, great with babies and dogs",
+      "content": "Rosario is described as incredibly sweet, hard-working, trustworthy, and good with babies and dogs. Reasonably priced. Contact: +1 (347) 488-7185. Tell her you were referred.",
+      "tags": ["cleaner", "housekeeping", "rosario", "uws", "baby-friendly"]
     },
     {
       "id": "105",
-      "category": "Fitness & Wellness",
-      "title": "Cocoon — Baby & Mom Classes Membership (Columbus Ave)",
-      "content": "Cocoon on Columbus Ave offers a caterpillar membership for 3+ month babies. Access to music and other classes. Lotus Method operates out of this space. Good value for regular class-goers.",
-      "tags": ["membership", "classes", "baby", "UWS", "cocoon", "columbus-ave"]
+      "category": "Home Services",
+      "title": "Susan (cleaner) — great with big dogs and cats, biweekly",
+      "content": "Susan is a recommended cleaner who is comfortable with large dogs and cats. Does biweekly cleaning. Contact: +1 (646) 302-8352.",
+      "tags": ["cleaner", "housekeeping", "susan", "uws", "pets"]
     },
     {
       "id": "106",
       "category": "Home Services",
-      "title": "Leah Mari — Home Organizer",
-      "content": "UWS home organizer. Send photos of your closets/spaces first before booking. Contact: leahmari.com@gmail.com",
-      "tags": ["organizer", "home", "UWS", "decluttering"]
+      "title": "Village Home Cleaning — cleaning agency, insured",
+      "content": "Village Home Cleaning is an insured cleaning agency. Note: client must supply their own vacuum cleaner. https://villagehomecleaning.com/",
+      "tags": ["cleaning", "agency", "insured", "nyc", "village home"]
     },
     {
       "id": "107",
       "category": "Home Services",
-      "title": "Anna's Cleaning NY — Highly Reliable",
-      "content": "Highly recommended house cleaning service. Used by one UWS family for 8+ years. Website: annascleaningny.com",
-      "tags": ["cleaning", "home-services", "UWS", "reliable"]
+      "title": "Westside Laundromat — wash and fold, delivery, never loses socks",
+      "content": "Westside Laundromat offers wash-and-fold laundry service with delivery. Trusted for years by UWS families. https://maps.app.goo.gl/8YHX83Zo9W3GjYVS9",
+      "tags": ["laundry", "wash and fold", "delivery", "uws"]
     },
     {
       "id": "108",
-      "category": "Home Services",
-      "title": "We Can Do It Worker Coop — Cleaning Service",
-      "content": "Worker cooperative cleaning service recommended by UWS moms. Found very reliable through the coop model. Website: wecandoit.coop",
-      "tags": ["cleaning", "home-services", "worker-coop", "UWS"]
+      "category": "Lactation & Feeding Support",
+      "title": "Ayelet Kaznelson LC — home visits, Friday breastfeeding group at MVP",
+      "content": "Ayelet Kaznelson is a highly recommended lactation consultant who makes home visits. Also runs a breastfeeding group at Manhattan Valley Pediatrics on Friday mornings. https://www.ayeletkaznelsonlc.com",
+      "tags": ["lactation", "breastfeeding", "home visit", "manhattan valley", "fridays"]
     },
     {
       "id": "109",
-      "category": "Home Services",
-      "title": "Greg Minch at ALTOUR — Travel Agent (UWS-Friendly)",
-      "content": "Travel agent recommended by UWS moms for booking family-friendly hotels and trips. Can find good rates and baby-friendly accommodations. Contact: 917-690-0775, greg.minch@altour.com",
-      "tags": ["travel", "travel-agent", "family-friendly", "hotels", "UWS"]
+      "category": "Lactation & Feeding Support",
+      "title": "Barbara Cohen IBCLC — highly recommended LC",
+      "content": "Barbara Cohen IBCLC completely changed breastfeeding for multiple families. Highly recommended. https://www.barbaracohenibclc.com/",
+      "tags": ["lactation", "breastfeeding", "ibclc", "barbara cohen"]
     },
     {
       "id": "110",
-      "category": "OB/GYNs",
-      "title": "Dr. Gila Aaron (W68th St) — Highly Recommended OB",
-      "content": "Highly recommended OB on W68th St. Well-regarded for both prenatal care and delivery. Delivers at Mount Sinai West.",
-      "tags": ["ob-gyn", "68th-street", "mount-sinai-west", "UWS"]
+      "category": "Lactation & Feeding Support",
+      "title": "Bobbie formula — organic, gentle on sensitive babies",
+      "content": "Bobbie formula is recommended as an organic formula, particularly gentle for sensitive babies. Available at local stores and online.",
+      "tags": ["formula", "organic", "bobbie", "infant feeding"]
     },
     {
       "id": "111",
-      "category": "OB/GYNs",
-      "title": "Westside OB/GYN — Multiple Recommendations",
-      "content": "Westside OB/GYN practice recommended by multiple moms across all groups. Several doctors praised. Convenient UWS location.",
-      "tags": ["ob-gyn", "westside", "UWS", "practice"]
+      "category": "Lactation & Feeding Support",
+      "title": "Cass Christopher Lactation Consultants — takes insurance, home visits",
+      "content": "Cass Christopher Lactation Consultants take insurance and do home visits. Also available for online sessions. Ask for Narchi. https://www.casschristopher.com/",
+      "tags": ["lactation", "breastfeeding", "insurance", "home visit", "pumping"]
     },
     {
       "id": "112",
-      "category": "OB/GYNs",
-      "title": "MFM Associates (UES) — Doula-Friendly, Natural Birth",
-      "content": "Maternal-fetal medicine practice on UES. Delivers at Mt Sinai West. Known for respecting natural birth preferences and working with doulas. Allows patient advocacy during labor and delivery.",
-      "tags": ["ob-gyn", "MFM", "UES", "natural-birth", "doula-friendly", "mount-sinai-west"]
+      "category": "Lactation & Feeding Support",
+      "title": "Heather McFadden — LC specialist for preemies",
+      "content": "Heather McFadden is a lactation consultant who helped multiple moms with premature babies. Highly recommended for preemie breastfeeding support.",
+      "tags": ["lactation", "breastfeeding", "preemie", "pumping"]
     },
     {
       "id": "113",
-      "category": "OB/GYNs",
-      "title": "Mount Sinai West Birth Certificate — Timeline & Tips",
-      "content": "Birth certificate from Mount Sinai West arrives in approximately 2 weeks. The form is filled out in the hospital at delivery. Keep the hospital paperwork for Social Security and passport applications.",
-      "tags": ["birth-certificate", "mount-sinai-west", "admin", "newborn", "paperwork"]
+      "category": "Lactation & Feeding Support",
+      "title": "Lactation cookie recipe — oat/flaxseed/brewer's yeast bars",
+      "content": "Lactation-boosting cookie/bar recipe using oats, flaxseed, and brewer's yeast. Popular recipe: New Mama Glo Bars at https://ohsheglows.com/new-mama-glo-bars-lactation-friendly-nut-free/. Also: Pumpkin chocolate chip lactation muffins at https://www.loveandzest.com/pump-up-your-milk-pumpkin-chocolate-chip-lactation-muffins/",
+      "tags": ["lactation", "breastfeeding", "cookies", "recipe", "milk supply"]
     },
     {
       "id": "114",
-      "category": "Parenting Tips",
-      "title": "Babywearing Safety: TICKS Guidelines",
-      "content": "TICKS carrier safety rules: Tight (carrier should be snug), In view at all times, Close enough to kiss, Keep chin off chest, Supported back. Check @letstalkbabywearing on Instagram. Moby wrap good for newborns. Ring sling is highly adjustable. Always verify position before moving.",
-      "tags": ["babywearing", "carrier", "safety", "TICKS", "newborn"]
+      "category": "Lactation & Feeding Support",
+      "title": "Natalie Diaz — LC, takes insurance, home visits, pumping to nursing",
+      "content": "Natalie Diaz is a highly recommended lactation consultant who takes insurance and makes home visits. Specializes in helping moms transition from exclusive pumping to nursing.",
+      "tags": ["lactation", "breastfeeding", "insurance", "home visit", "pumping to nursing"]
     },
     {
       "id": "115",
-      "category": "Parenting Tips",
-      "title": "Breast-to-Bottle Transition: Bait & Switch Method",
-      "content": "Start nursing baby for a few minutes, then switch to a bottle mid-feed. Baby is already in feeding mode and more likely to accept the bottle. Works better than cold-starting with a bottle.",
-      "tags": ["bottle", "breastfeeding", "transition", "tips", "feeding"]
+      "category": "Lactation & Feeding Support",
+      "title": "Nordstrom (57th St) — lactation room on lower level kids floor",
+      "content": "Nordstrom at 57th Street has a lactation room on the lower level (-2) kids floor. Good option when out in midtown or Columbus Circle area.",
+      "tags": ["lactation room", "nursing", "breastfeeding", "57th", "nordstrom"]
     },
     {
       "id": "116",
-      "category": "Parenting Tips",
-      "title": "Formula Transition: 'Appetizer Bottle' Method",
-      "content": "Offer a small amount of formula first before breastfeeding. Baby is hungry and more likely to accept the new flavor/texture. Once accepted, gradually increase formula amount. Works well for stubborn latch babies.",
-      "tags": ["formula", "breastfeeding", "transition", "tips", "feeding"]
+      "category": "Lactation & Feeding Support",
+      "title": "Puramino amino acid formula — for cow milk protein allergy",
+      "content": "Puramino is an amino acid formula recommended for babies with cow milk protein allergy. Prescribed by pediatricians when standard formulas cause reactions.",
+      "tags": ["formula", "allergy", "cow milk protein", "puramino", "infant feeding"]
     },
     {
       "id": "117",
-      "category": "Parenting Tips",
-      "title": "Formula Transition Timeline: Allow 6+ Days Per Brand",
-      "content": "Allow 6+ days before switching formula brands — baby's gut needs time to adjust. Take photos of dirty diapers to show pediatrician if you have concerns. Gradual 3:1 → 2:1 → 1:1 → full formula ratio works well over ~2 weeks.",
-      "tags": ["formula", "transition", "digestion", "tips"]
+      "category": "Mental Health & Therapy",
+      "title": "Kate Kirschner — perinatal therapist, JCC meetup facilitator",
+      "content": "Kate Kirschner is a therapist specializing in the perinatal period. Facilitates weekly JCC meetups for parents of infants (birth to 1 year). Sessions are connection-focused, not formal therapy. UWS-based.",
+      "tags": ["therapist", "perinatal", "postpartum", "jcc", "meetup", "kate kirschner"]
     },
     {
       "id": "118",
-      "category": "Parenting Tips",
-      "title": "Pumping Schedule at Work (3x/day, Every 3 Hours)",
-      "content": "Return-to-work pumping schedule: 3 times a day around 10am, 12:30pm, and 3pm (roughly every 3 hours). 20–30 min per session. Between sessions: cold rinse and store pump parts in fridge — no need to sterilize each time. Pump bag tips: insulated bag with ice pack for milk storage.",
-      "tags": ["pumping", "breastfeeding", "work", "schedule", "return-to-work"]
+      "category": "OB/GYNs",
+      "title": "Cornell 80th St OBGYN — Dr. Julia Meisler, Dr. Nabizadeh, and team",
+      "content": "Weill Cornell OB practice on 80th Street. Dr. Julia Meisler is very highly recommended. Dr. Nabizadeh is also excellent (scheduled and emergency C-sections). Dr. Allegra Cummings praised. Multiple deliveries at Alexandra Cohen / Weill Cornell. The entire practice is well-regarded.",
+      "tags": ["obgyn", "ob", "weill cornell", "80th", "dr julia meisler", "dr nabizadeh"]
     },
     {
       "id": "119",
-      "category": "Parenting Tips",
-      "title": "Swaddle Transition: Magic Merlin → Halo → Arms-Free",
-      "content": "Step-by-step swaddle transition: (1) Swaddled → (2) Magic Merlin sleep sack (both arms in) → (3) Halo sack with one arm out → (4) Both arms out. This gradual approach reduces sleep disruption from the moro (startle) reflex.",
-      "tags": ["swaddle", "sleep", "transition", "moro-reflex", "magic-merlin", "halo"]
+      "category": "OB/GYNs",
+      "title": "Dr. Anna Rhee — Mount Sinai West OB",
+      "content": "Dr. Anna Rhee at Mount Sinai West is recommended by UWS moms.",
+      "tags": ["obgyn", "ob", "mount sinai west", "dr anna rhee"]
     },
     {
       "id": "120",
-      "category": "Parenting Tips",
-      "title": "Mastitis Treatment: Cabbage Leaves, Ibuprofen & Antibiotics",
-      "content": "Mastitis treatment combo: antibiotics from OB, ibuprofen for pain/inflammation, and cold cabbage leaves inside bra. Use any color cabbage EXCEPT red (it stains). Cabbage leaves provide natural anti-inflammatory relief. Change leaves when they wilt.",
-      "tags": ["mastitis", "breastfeeding", "treatment", "tips", "health"]
+      "category": "OB/GYNs",
+      "title": "Dr. Gila Aaron — West 68th, highly recommended OB",
+      "content": "Dr. Gila Aaron on West 68th is described as incredible.",
+      "tags": ["obgyn", "ob", "68th", "uws", "dr gila aaron"]
     },
     {
       "id": "121",
-      "category": "Parenting Tips",
-      "title": "Rolling to Tummy at Night: What to Do",
-      "content": "When baby starts rolling to their tummy at night: increase daytime tummy time so they get stronger and comfortable. Once baby can roll both ways independently, it is generally safe. Expect 4–7 days of adjustment. Don't flip them back each time — they need to practice.",
-      "tags": ["sleep", "rolling", "tummy-time", "safety", "development"]
+      "category": "OB/GYNs",
+      "title": "Dr. Robin Brown — Mount Sinai West, office around 77th",
+      "content": "Dr. Robin Brown at Mount Sinai West, office around 77th Street.",
+      "tags": ["obgyn", "ob", "mount sinai west", "77th", "dr robin brown"]
     },
     {
       "id": "122",
-      "category": "Parenting Tips",
-      "title": "Food Throwing: Offer 2–3 Pieces at a Time",
-      "content": "When baby throws food from tray: offer only 2–3 pieces at a time instead of a full portion. Less to throw, better focus on eating. If throwing continues, take food away for a bit and try again. Normal developmental behavior.",
-      "tags": ["solids", "feeding", "behavior", "BLW", "toddler", "tips"]
+      "category": "OB/GYNs",
+      "title": "Dr. Weinstein — Weill Cornell 72nd St OB",
+      "content": "Dr. Weinstein at Weill Cornell 72nd Street is loved as an OB — also delivered the baby.",
+      "tags": ["obgyn", "ob", "weill cornell", "72nd", "dr weinstein"]
     },
     {
       "id": "123",
-      "category": "Parenting Tips",
-      "title": "Food Refusals: Change the Presentation",
-      "content": "If baby refuses a food, try a different presentation. Examples: hard boiled egg whites as spears instead of chunks; slightly underripe banana in rounds instead of mashed. Temperature and texture changes can also help. Don't give up after one refusal — takes 10+ exposures.",
-      "tags": ["solids", "feeding", "refusal", "BLW", "tips", "texture"]
+      "category": "OB/GYNs",
+      "title": "MFM Associates — UES, deliver at Mt Sinai West",
+      "content": "MFM Associates practice is on UES but delivers at Mount Sinai West. Worth crossing the park — highly praised for a second birth.",
+      "tags": ["obgyn", "ob", "ues", "mount sinai west", "mfm", "maternal fetal medicine"]
     },
     {
       "id": "124",
-      "category": "Parenting Tips",
-      "title": "Weaning Older Baby from Breastfeeding",
-      "content": "Gradual weaning tips: replace nursing sessions one at a time with cuddles and warm milk in a cup. Have the other parent take over bedtime. Baby may protest for a few nights. Solid Starts website has detailed guidance. Don't offer but don't refuse for a gentle approach.",
-      "tags": ["weaning", "breastfeeding", "toddler", "tips", "solid-starts"]
+      "category": "OB/GYNs",
+      "title": "OBGYN Westside — multiple strong recommendations",
+      "content": "OBGYN Westside practice received multiple strong recommendations from UWS moms. https://maps.app.goo.gl/TdUgQQYv96yyCQN8A",
+      "tags": ["obgyn", "ob", "westside", "uws"]
     },
     {
       "id": "125",
-      "category": "Parenting Tips",
-      "title": "Baby Passport: Both Parents Must Appear in Person",
-      "content": "Both parents must appear at the passport application appointment — no exceptions unless using a notarized DS-3053 form from the absent parent. Bring originals + copies of everything. Recommend AAA over USPS for passport applications (shorter wait, more organized). Take passport photo at home and print at Duane Reade. Apply for expedited processing if traveling within 3 months.",
-      "tags": ["passport", "baby", "admin", "travel", "tips"]
+      "category": "OB/GYNs",
+      "title": "Oula — midwife-led OB practice",
+      "content": "Oula is a midwife-led OB practice that is highly rated. Good for those wanting more natural birth support. Multiple moms used them for second pregnancies. Partners with The Nest for events.",
+      "tags": ["obgyn", "midwife", "oula", "natural birth", "uws"]
     },
     {
       "id": "126",
       "category": "Parenting Tips",
-      "title": "Baby Global Entry — Free Under 16, Apply Separately",
-      "content": "Global Entry is free for children under 16. Apply as a separate individual (not tied to parent's membership). Can complete the interview at customs upon return from an international trip — no separate appointment needed initially.",
-      "tags": ["global-entry", "travel", "passport", "customs", "tips"]
+      "title": "2-month vaccines — fever/lethargy normal 1-2 days, have Tylenol ready",
+      "content": "After 2-month vaccines, fever and lethargy are normal for 1-2 days. Have infant Tylenol ready before the appointment. Rotavirus vaccine specifically causes gas (this is normal).",
+      "tags": ["vaccines", "2 months", "tylenol", "fever", "tips"]
     },
     {
       "id": "127",
       "category": "Parenting Tips",
-      "title": "NYC Taxis & Ubers — Car Seats Not Legally Required in Yellow Cabs",
-      "content": "In NYC yellow cabs, car seats are legally not required for taxis (not enforced). For Uber/Lyft, it depends on the driver — some accept, some don't. Uber Car Seat service exists but is unreliable (often cancels). For peace of mind, bring a lightweight travel seat (Cosco Scenera/Extend) for longer rides.",
-      "tags": ["taxi", "uber", "car-seat", "nyc", "travel", "safety"]
+      "title": "Baby teeth brushing — start at first tooth, no special toothpaste needed",
+      "content": "Start brushing as soon as first tooth appears. No special toothpaste required — plain water on a soft brush is fine per CDC. Kids prefer fruity over mint flavors. Make it fun with a colorful brush. Let baby hold it after brushing. Silicone finger brushes work well for first teeth.",
+      "tags": ["teeth", "brushing", "baby", "dental", "tips"]
     },
     {
       "id": "128",
       "category": "Parenting Tips",
-      "title": "6-Week Sleep Regression — Normal, Temporary",
-      "content": "The 6-week sleep regression is normal and temporary. Baby is going through a growth spurt and developmental leap. Tips: baby wearing/contact naps during the day, use Huckleberry app to track patterns, try a dream feed, accept the phase and don't try to sleep train through it.",
-      "tags": ["sleep", "regression", "6-weeks", "growth-spurt", "tips"]
+      "title": "Beyfortus RSV antibody shot — strong recommendation for infants",
+      "content": "Beyfortus (nirsevimab) RSV antibody shot is strongly recommended for all newborns and infants before their first RSV season. Not a vaccine — it is a monoclonal antibody. Ask your pediatrician.",
+      "tags": ["rsv", "beyfortus", "vaccine", "newborn", "protection"]
     },
     {
       "id": "129",
       "category": "Parenting Tips",
-      "title": "Tick Protection with a Baby",
-      "content": "Tick protection tips: Dress baby in long pants and sleeves. Spray shoes and clothes with DEET 15–30 min before going out (not on skin). Use picaridin wipes on ankle areas. Check every 1–2 hours in wooded/grassy areas. Carry a tick remover tool. Check all skin creases on baby after any outdoor time.",
-      "tags": ["tick", "safety", "outdoor", "summer", "protection", "tips"]
+      "title": "Car seats in NYC taxis/Ubers — legally not required but use when possible",
+      "content": "Per NYC TLC, car seats are not legally required in taxis and rideshares, but not enforced. Yellow cabs are generally okay. Uber depends on driver. For travel car seat, Cosco Scenera Next is lightweight and works without a base. Nuna Pipa also works without base in cabs. NYC TLC FAQ: https://www.nyc.gov/site/tlc/passengers/passenger-frequently-asked-questions.page",
+      "tags": ["car seat", "taxi", "uber", "nyc", "tlc", "tips"]
     },
     {
       "id": "130",
       "category": "Parenting Tips",
-      "title": "Airline Travel with Baby: Request Bassinet Early",
-      "content": "Request a bassinet seat (bulkhead row) when booking — not all planes have them and they go fast. Bring baby's sleep sack as a familiar sleep cue. Board last (not during family boarding) so less time trapped in seat. Gate-check your stroller. Download entertainment before the flight.",
-      "tags": ["travel", "airline", "bassinet", "tips", "flying"]
+      "title": "Drool rash treatment — keep area dry, apply Aquaphor",
+      "content": "For drool rash: keep the area as dry as possible and apply a thin layer of Aquaphor to create a skin barrier. Confirmed effective by multiple pediatricians. Cool mist humidifier in nursery also helps in dry winter months.",
+      "tags": ["drool rash", "skin", "aquaphor", "baby", "rash", "tips"]
     },
     {
       "id": "131",
       "category": "Parenting Tips",
-      "title": "Pack-n-Play Practice Naps Before Travel",
-      "content": "Practice napping in a pack-n-play at home before any trip where baby will sleep in one. Familiarity with the sleep environment helps enormously on the road.",
-      "tags": ["travel", "sleep", "pack-n-play", "tips", "preparation"]
+      "title": "Early morning wakeups — usually too much day sleep or too-early bedtime",
+      "content": "Early morning wakeups (4-5am) are often caused by too much daytime sleep or a bedtime that is too early. Try capping naps or pushing bedtime later by 15-30 min increments.",
+      "tags": ["sleep", "wakeup", "early morning", "baby", "tips"]
     },
     {
       "id": "132",
       "category": "Parenting Tips",
-      "title": "Reflux Management: Keep Upright, Gas Drops, Windi",
-      "content": "For reflux: keep baby upright for 20–30 minutes after each feed. Mylicon gas drops (simethicone) can help. Use Windi for trapped gas. Elevate head of bassinet slightly. Report symptoms to pediatrician — some babies need a short course of medication.",
-      "tags": ["reflux", "gas", "infant", "tips", "health"]
+      "title": "Formula trial period — give 6 days before switching",
+      "content": "Give a new formula at least 6 days for baby to adjust before deciding to switch. Many digestive reactions in early days even out over time.",
+      "tags": ["formula", "feeding", "tips", "switching"]
     },
     {
       "id": "133",
       "category": "Parenting Tips",
-      "title": "Dr. Modi — Pediatric ENT / Tongue Tie Specialist",
-      "content": "Dr. Modi recommended as a pediatric ENT who also handles tongue tie assessment and revision. Useful if breastfeeding difficulties are suspected to be related to latch/tongue tie.",
-      "tags": ["ENT", "tongue-tie", "specialist", "breastfeeding", "pediatric"]
+      "title": "Gas and reflux remedies — gas drops, Windi, upright positioning",
+      "content": "For gassy or reflux babies: use gas drops (simethicone), Windi gas and colic reliever, keep baby upright after feeds. Note: there is a high correlation between farting/pooping and smiling in infants — normal developmental milestone.",
+      "tags": ["gas", "reflux", "colic", "windi", "gas drops", "baby tips"]
     },
     {
       "id": "134",
-      "category": "Pediatricians & Specialists",
-      "title": "Westside Pediatrics (90th & Columbus) — Dr. Mann, Goldberg, DeMattia",
-      "content": "Well-regarded pediatric practice at 90th and Columbus Ave. Doctors: Dr. Mann (also a lactation consultant — very helpful for breastfeeding support), Dr. Goldberg, Dr. DeMattia. Full practice is excellent. Multiple families recommend.",
-      "tags": ["pediatrician", "westside-pediatrics", "90th-street", "columbus-ave", "lactation-consultant"]
+      "category": "Parenting Tips",
+      "title": "Jury duty excusal — breastfeeding/postpartum email + call",
+      "content": "To be excused from jury duty for breastfeeding or being postpartum: email nycountyjurorquestions@nycourts.gov, then call (646) 386-5969.",
+      "tags": ["jury duty", "breastfeeding", "postpartum", "excusal", "nyc"]
     },
     {
       "id": "135",
-      "category": "Pediatricians & Specialists",
-      "title": "Weill Cornell Pediatrics (84th & Broadway) — Dr. Odom, Kravitz, Nestler",
-      "content": "Recommended Weill Cornell pediatric practice at 84th & Broadway. Dr. Elizabeth Odom may be on maternity leave — check. Dr. Amanda Kravitz, Dr. Elizabeth Nestler, Dr. Jane Rossini, Dr. Cohen also well-reviewed.",
-      "tags": ["pediatrician", "weill-cornell", "84th-street", "broadway"]
+      "category": "Parenting Tips",
+      "title": "Maternity clothes rental — NUULY and Rent the Runway",
+      "content": "NUULY is good for maternity clothes rental generally. RTR (Rent the Runway) is good for maternity work attire but has limited maternity trouser options.",
+      "tags": ["maternity", "clothes", "rental", "nuuly", "rtr", "pregnancy"]
     },
     {
       "id": "136",
-      "category": "Pediatricians & Specialists",
-      "title": "Weill Cornell Pediatrics (72nd St) — Dr. Erick Rosenberg",
-      "content": "Dr. Erick Rosenberg at Weill Cornell pediatrics on 72nd St. Recommended by UWS moms.",
-      "tags": ["pediatrician", "weill-cornell", "72nd-street"]
+      "category": "Parenting Tips",
+      "title": "Nanny tax — paying cash creates unemployment liability",
+      "content": "Paying a nanny in cash creates a tax liability issue if the nanny later claims unemployment. Use nannytax.com or HomeWork Solutions to handle payroll and taxes properly.",
+      "tags": ["nanny", "taxes", "nannytax", "unemployment", "legal", "tips"]
     },
     {
       "id": "137",
-      "category": "Pediatricians & Specialists",
-      "title": "Our Kids Pediatrics (70th St) — Dr. Gidwani",
-      "content": "Dr. Gidwani at Our Kids on 70th St is highly recommended. Was on rotation at birth for multiple families. Nurses are very responsive by email. First 1-week appointment was thorough and reassuring.",
-      "tags": ["pediatrician", "our-kids", "70th-street", "responsive"]
+      "category": "Parenting Tips",
+      "title": "Pediatric dentist first visit — around age 1",
+      "content": "Pediatricians recommend seeing a pediatric dentist around age 1 (when the first teeth come in). Some moms wait until 2 per pediatrician advice — both approaches seen in the group.",
+      "tags": ["dentist", "pediatric", "baby", "teeth", "1 year", "tips"]
     },
     {
       "id": "138",
-      "category": "Pediatricians & Specialists",
-      "title": "Tribeca Pediatrics (89th & Columbus) — Dr. Sasala",
-      "content": "Dr. Sasala at Tribeca Pediatrics' 89th St & Columbus Ave location. Recommended.",
-      "tags": ["pediatrician", "tribeca-pediatrics", "89th-street", "columbus-ave"]
+      "category": "Parenting Tips",
+      "title": "Rolling sleep regression — more tummy time helps",
+      "content": "Sleep regression caused by rolling over (typically around 4 months) leads to night waking. Doing more tummy time during the day helps babies develop rolling skills faster and reduces nighttime disruptions.",
+      "tags": ["sleep regression", "rolling", "tummy time", "4 months", "tips"]
     },
     {
       "id": "139",
-      "category": "Pediatricians & Specialists",
-      "title": "Pediatric GI: Dr. Nancy Pittman (UES) & Dr. Gordon (Weill Cornell)",
-      "content": "For pediatric GI issues: Dr. Nancy Pittman on the UES is highly recommended. Dr. Gordon at Weill Cornell UES also well-regarded. Worth crossing the park for GI specialists.",
-      "tags": ["pediatric-gi", "specialist", "UES", "weill-cornell", "gastroenterology"]
+      "category": "Parenting Tips",
+      "title": "Stroller outward-facing milestone — when baby can hold head up",
+      "content": "Good time to flip stroller to outward-facing is when baby can hold their head up steadily (typically 4 months). Signs include FOMO and wanting to look around. In parent-facing mode, easier to soothe on long walks.",
+      "tags": ["stroller", "outward facing", "4 months", "tips", "milestone"]
     },
     {
       "id": "140",
-      "category": "Pediatricians & Specialists",
-      "title": "Pediatric PT: Alyson Cerbone (Weill Cornell, 525 E 68th)",
-      "content": "Pediatric physical therapist at Weill Cornell, 525 E 68th St. Recommended for early motor development concerns or torticollis.",
-      "tags": ["pediatric-PT", "specialist", "weill-cornell", "motor-development", "torticollis"]
+      "category": "Parenting Tips",
+      "title": "Travel with baby on a plane — bedtime routine hack for night flights",
+      "content": "For long car trips or night flights: do full bedtime routine first (bath, PJs, feeding), put baby to bed in crib, then transfer to car or plane about 1 hour into sleep. Works very well for babies under 2. Bring a window shade for bright evenings. Feed during takeoff to help with ear pressure.",
+      "tags": ["travel", "plane", "car", "baby", "sleep", "tips"]
     },
     {
       "id": "141",
-      "category": "Stroller-Friendly Dining",
-      "title": "Tacombi — Best for Families with Babies & Toddlers",
-      "content": "Top recommendation for dining out with a stroller. Casual Mexican, spacious layout, kid-tolerant atmosphere. Multiple UWS moms agree it's one of the best options.",
-      "tags": ["stroller-friendly", "mexican", "family-friendly", "casual", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Dr. Cecil — pregnancy and postpartum hip/back pain, clogged ducts",
+      "content": "Dr. Cecil has helped multiple moms during pregnancy with hip and back pain. Also helps postpartum with back pain, hip pain, and even clogged milk ducts.",
+      "tags": ["back pain", "hip pain", "pregnancy", "postpartum", "clogged duct"]
     },
     {
       "id": "142",
-      "category": "Stroller-Friendly Dining",
-      "title": "Ellington in the Park — Riverside Park Biergarten/Café",
-      "content": "Outdoor café and biergarten inside Riverside Park. Opens seasonally (from ~April 24). Coffee shop section open year-round. Great for meet-ups with strollers. Walk right in from the park path.",
-      "tags": ["stroller-friendly", "outdoor", "riverside-park", "cafe", "biergarten", "seasonal", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Dr. Haddad — ENT & Allergy Associates, Columbus Ave, pediatric ENT",
+      "content": "Dr. Joseph Haddad at ENT & Allergy Associates on Columbus Avenue. Recommended for pediatric ENT issues.",
+      "tags": ["ent", "pediatric", "allergy", "columbus ave", "uws"]
     },
     {
       "id": "143",
-      "category": "Stroller-Friendly Dining",
-      "title": "Mermaid Inn — Large Space, No Changing Table",
-      "content": "Large restaurant layout, good for strollers especially during early dinner/happy hour. Seafood focus. Note: NO changing table or family bathroom — plan accordingly.",
-      "tags": ["stroller-friendly", "seafood", "happy-hour", "no-changing-table", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Dr. Krysthel Engstrom — cardiologist, Mount Sinai",
+      "content": "Dr. Krysthel Engstrom is a cardiologist at Mount Sinai. Thorough and empathetic. https://profiles.mountsinai.org/krysthel-engstrom",
+      "tags": ["cardiologist", "heart", "mount sinai", "specialist"]
     },
     {
       "id": "144",
-      "category": "Stroller-Friendly Dining",
-      "title": "Nice Matin — Good If Not Crowded",
-      "content": "French-Mediterranean on the UWS. Good for strollers at off-peak times. Can get tight when crowded.",
-      "tags": ["stroller-friendly", "french", "UWS", "off-peak"]
+      "category": "Pediatric Specialists",
+      "title": "Dr. Monica Halem — dermatologist, 79th & 5th Ave",
+      "content": "Dr. Monica Halem is a dermatologist at 79th and 5th Avenue. IVF-experienced herself and helped connect patients with fertility doctors, OBs, and acupuncturists.",
+      "tags": ["dermatologist", "skin", "79th", "east side", "dr monica halem"]
     },
     {
       "id": "145",
-      "category": "Stroller-Friendly Dining",
-      "title": "Pecora Bianca — Good If Not Crowded",
-      "content": "Italian restaurant, good for strollers when not too crowded. Nicer atmosphere but manageable with a baby.",
-      "tags": ["stroller-friendly", "italian", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Nourish / Berry Street — in-network nutritionist platforms",
+      "content": "For in-network nutritionist coverage, use Nourish or Berry Street platforms to find a covered nutritionist/dietitian. Good for postpartum nutrition and feeding questions.",
+      "tags": ["nutritionist", "dietitian", "postpartum", "nourish", "berry street", "in-network"]
     },
     {
       "id": "146",
-      "category": "Stroller-Friendly Dining",
-      "title": "French Roast — Casual Brasserie, Stroller OK",
-      "content": "Casual French brasserie, stroller-friendly. Good for a relaxed meal out on the UWS.",
-      "tags": ["stroller-friendly", "french", "casual", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Tiny Transformations — in-home pediatric OT and PT",
+      "content": "Tiny Transformations provides in-home physical therapy (PT) and occupational therapy (OT) for babies and kids. Highly convenient for NYC families.",
+      "tags": ["physical therapy", "occupational therapy", "baby", "in-home", "pediatric", "tiny transformations"]
     },
     {
       "id": "147",
-      "category": "Stroller-Friendly Dining",
-      "title": "Westville — Outside Seating with Strollers",
-      "content": "Good outdoor seating option for strollers. American comfort food. Easy with a baby when sitting outside.",
-      "tags": ["stroller-friendly", "outdoor", "american", "UWS"]
+      "category": "Pediatric Specialists",
+      "title": "Upper West Side Derm — 73rd & West End, adult dermatology",
+      "content": "Upper West Side Derm at 73rd and West End Avenue. Recommended by multiple UWS moms.",
+      "tags": ["dermatologist", "skin", "73rd west end", "uws"]
     },
     {
       "id": "148",
-      "category": "Stroller-Friendly Dining",
-      "title": "La Bomboniera (82nd & Amsterdam) — Decent Space",
-      "content": "New location on 82nd at Amsterdam/West Side. Decent space for strollers. Worth trying for a casual meal.",
-      "tags": ["stroller-friendly", "82nd-street", "amsterdam", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Agenese — PedsNY (West End & 78th-79th), good for newborns",
+      "content": "Dr. Agenese at PedsNY (Pediatric and Adolescent Medicine) on West End Avenue between 78th and 79th. Multiple moms recommend for newborns.",
+      "tags": ["pediatrician", "pedsny", "west end", "78th", "newborn"]
     },
     {
       "id": "149",
-      "category": "Stroller-Friendly Dining",
-      "title": "Vanguard Wine Bar (Amsterdam between 68th & 69th)",
-      "content": "Nice wine bar on Amsterdam Ave between 68th and 69th St. Good meet-up spot in the evening. Stroller-friendly.",
-      "tags": ["stroller-friendly", "wine-bar", "amsterdam", "68th-street", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Amanda Kravitz — Weill Cornell 84th St, highly recommended",
+      "content": "Dr. Amanda Kravitz at Weill Cornell 84th Street. Highly recommended by multiple families. Good weekend hours and emergency same-day appointments at UWS 85th, UES, or 72nd.",
+      "tags": ["pediatrician", "weill cornell", "84th", "uws", "dr amanda kravitz"]
     },
     {
       "id": "150",
-      "category": "Stroller-Friendly Dining",
-      "title": "Pier I Café — Riverside Park, Great Outdoor Meetup Spot",
-      "content": "Riverside outdoor café at Pier I in Riverside Park. Great for warm weather meetups with strollers. Walk-up style, open air.",
-      "tags": ["stroller-friendly", "outdoor", "riverside-park", "meetup", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Baker / Dr. DeSanto — Baker Health, WEA & W 60th, open 7 days",
+      "content": "Dr. Baker or Dr. DeSanto at Baker Health on West End Avenue and West 60th Street. Open 7 days a week. Has an app for on-call doctor after hours. Great for families wanting maximum accessibility.",
+      "tags": ["pediatrician", "7 days", "wea", "60th", "uws", "baker health"]
     },
     {
       "id": "151",
-      "category": "Stroller-Friendly Dining",
-      "title": "Covacha, Lokal, Asset — Other UWS Stroller-Friendly Spots",
-      "content": "Other stroller-friendly spots mentioned by UWS moms: Covacha (Latin-inspired), Lokal (staff welcoming with strollers), Asset (casual, good space).",
-      "tags": ["stroller-friendly", "UWS", "casual"]
+      "category": "Pediatricians",
+      "title": "Dr. Elizabeth Odom — Weill Cornell 84th St, MOST recommended UWS ped",
+      "content": "Dr. Elizabeth Odom at Weill Cornell 84th Street. One of the most-recommended pediatricians across all four UWS groups. Multiple families are very enthusiastic. Practice has weekend hours and 24/7 on-call. Note: was on maternity leave in late 2025.",
+      "tags": ["pediatrician", "weill cornell", "84th", "uws", "dr elizabeth odom", "top pick"]
     },
     {
       "id": "152",
-      "category": "Stroller-Friendly Dining",
-      "title": "Picky Barista — Coffee on 72nd (North Side, Broadway to WEA)",
-      "content": "Coffee shop on the north side of 72nd St between Broadway and West End Ave. Good for a stroller-friendly coffee stop.",
-      "tags": ["coffee", "stroller-friendly", "72nd-street", "UWS", "cafe"]
+      "category": "Pediatricians",
+      "title": "Dr. Eric Rosenberg — Weill Cornell 72nd St",
+      "content": "Dr. Eric Rosenberg at Weill Cornell 72nd Street. Recommended by families in the UWS community.",
+      "tags": ["pediatrician", "weill cornell", "72nd", "uws", "dr eric rosenberg"]
     },
     {
       "id": "153",
-      "category": "UWS Local Tips",
-      "title": "Eleanor Roosevelt Memorial (72nd & Riverside) — Popular Meetup Spot",
-      "content": "The Eleanor Roosevelt statue at 72nd & Riverside Dr is a popular UWS mom meetup spot. Shaded, open area, stroller-friendly path access to Riverside Park.",
-      "tags": ["meetup", "riverside-park", "72nd-street", "outdoor", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Gidwani — Our Kids MD, 70th St, mixed reviews",
+      "content": "Dr. Sonia Gidwani at Our Kids MD on 70th Street. Has multiple strong positive recommendations — described as super responsive to questions via email. However, also has at least one very negative experience reported (inappropriate physical exam, pressure around feeding decisions). Practice note: $300 annual fee, not full concierge.",
+      "tags": ["pediatrician", "our kids md", "70th", "uws", "mixed reviews", "dr gidwani"]
     },
     {
       "id": "154",
-      "category": "UWS Local Tips",
-      "title": "Soldiers & Sailors Monument (89th & Riverside) — Meetup Point",
-      "content": "The Soldiers & Sailors Monument at 89th St and Riverside Drive is used as a meetup reference point for Riverside Park walks.",
-      "tags": ["meetup", "riverside-park", "89th-street", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Grossman — Our Kids MD, warm and engaging",
+      "content": "Dr. Grossman at Our Kids MD is described as warm, engaging, and supportive. Very non-judgmental.",
+      "tags": ["pediatrician", "our kids md", "70th", "uws", "dr grossman"]
     },
     {
       "id": "155",
-      "category": "UWS Local Tips",
-      "title": "Playground Water Features Map (Summer)",
-      "content": "NYC parks with water play features for babies and toddlers: Dinosaur Playground (97th & Riverside — NOTE: closed 2025 for renovation), Hippo Playground, River Run Playground, Safari Playground in Central Park at 90th (sprinklers), Tarr-Coyne Tots (68th & CPW, good for under 20 months), Waterline Square (60th). Full list at nycgovparks.org/facilities/sprayshowers",
-      "tags": ["playground", "water-play", "sprinkler", "summer", "UWS", "parks"]
+      "category": "Pediatricians",
+      "title": "Dr. Kelly Lau — Manhattan Valley Pediatrics",
+      "content": "Dr. Kelly Lau at Manhattan Valley Pediatrics. Highly recommended.",
+      "tags": ["pediatrician", "manhattan valley pediatrics", "100th broadway", "uws"]
     },
     {
       "id": "156",
-      "category": "UWS Local Tips",
-      "title": "Dinosaur Playground (97th & Riverside) — Closed 2025",
-      "content": "HEADS UP: Dinosaur Playground at 97th & Riverside Drive is closed in 2025 for renovation. Check NYC Parks website for reopening date.",
-      "tags": ["playground", "UWS", "closed", "2025", "97th-street", "riverside-park"]
+      "category": "Pediatricians",
+      "title": "Dr. Leena Shiwbaran — PedsNY (West End & 79th), weekend hours",
+      "content": "Dr. Leena Shiwbaran at PedsNY at West End Ave between 78th and 79th. Weekend hours 9am-12pm in person. After-hours nurse or doctor calls back within 15 min.",
+      "tags": ["pediatrician", "pedsny", "west end", "79th", "weekends", "uws"]
     },
     {
       "id": "157",
-      "category": "UWS Local Tips",
-      "title": "Safari Playground (Central Park, 90th St) — Sprinklers",
-      "content": "Safari Playground in Central Park at 90th St has a good sprinkler section. Good for summer water play. Can get crowded on hot days — go early.",
-      "tags": ["playground", "sprinkler", "central-park", "90th-street", "summer", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Mann / Dr. Goldberg / Dr. DeMattia — Westside Pediatrics, 90s UWS",
+      "content": "Westside Pediatrics in the 90s on the UWS. Dr. Mann, Dr. Goldberg, and Dr. DeMattia all recommended. Dr. Yaker is there but does not take new patients. Available nights by phone and weekends with sick appointments.",
+      "tags": ["pediatrician", "westside pediatrics", "90s", "uws", "dr mann", "dr goldberg"]
     },
     {
       "id": "158",
-      "category": "UWS Local Tips",
-      "title": "Buy Nothing Groups — UWS (Facebook, by Cross Streets)",
-      "content": "UWS Buy Nothing groups on Facebook are organized by cross streets. Search for groups covering 76th–90th St, 91st–100th St, etc. Great for baby gear donations and finds. Also try the UWS Mom groups directly.",
-      "tags": ["buy-nothing", "free", "baby-gear", "facebook", "community", "UWS"]
+      "category": "Pediatricians",
+      "title": "Dr. Nowell — Manhattan Valley Pediatrics, top pick",
+      "content": "Dr. Nowell (also seen as Nowells) at Manhattan Valley Pediatrics (100th and Broadway) is one of the most frequently recommended pediatricians across all four groups. Ayelet Kaznelson LC runs breastfeeding group here on Friday mornings.",
+      "tags": ["pediatrician", "manhattan valley pediatrics", "100th broadway", "uws", "dr nowell", "top pick"]
     },
     {
       "id": "159",
-      "category": "UWS Local Tips",
-      "title": "St. Francis Thrift Store — Donation Center (7 days, 11am–5pm)",
-      "content": "St. Francis Thrift Store accepts donations of baby gear and clothing. Open 7 days a week, 11am–5pm. Good for donating items baby has outgrown.",
-      "tags": ["donation", "thrift", "baby-gear", "UWS"]
+      "category": "Pediatricians",
+      "title": "Manhattan Valley Pediatrics — 100th & Broadway, top-recommended practice",
+      "content": "Manhattan Valley Pediatrics at 100th and Broadway is the single most-recommended pediatric practice across all four UWS WhatsApp groups. Multiple doctors highly praised: Dr. Nowell/Nowells, Dr. Hoffman, Dr. Lau, Dr. Grant, Dr. Emanuel, Dr. Saha, Dr. Allison Gati. Has two locations. Ayelet Kaznelson LC runs breastfeeding group on Friday mornings here.",
+      "tags": ["pediatrician", "manhattan valley pediatrics", "100th broadway", "uws", "top pick"]
     },
     {
       "id": "160",
-      "category": "UWS Local Tips",
-      "title": "St. Paul and St. Andrew Church (86th & West End) — Baby Item Donations",
-      "content": "St. Paul and St. Andrew Church on 86th St & West End Ave accepts donations of baby items and clothing.",
-      "tags": ["donation", "church", "baby-gear", "86th-street", "UWS"]
+      "category": "Pediatricians",
+      "title": "PedsNY (West End & 78th-79th) — weekend hours, not concierge",
+      "content": "PedsNY (Pediatric and Adolescent Medicine) at West End Avenue between 78th and 79th. Dr. Leena Shiwbaran and Dr. Agenese both recommended. Weekend in-person hours 9am-12pm. After-hours phone within 15 min. Not concierge — takes insurance.",
+      "tags": ["pediatrician", "pedsny", "west end", "78th", "79th", "weekend hours", "uws"]
     },
     {
       "id": "161",
-      "category": "UWS Local Tips",
-      "title": "Best Spots for Toddler Bike & Scooter Practice",
-      "content": "Best paved areas for toddler scooting/biking: Riverside Park above 97th St (long, less crowded), 77th & Amsterdam Park (circular loop track), Safari Playground in Central Park (paved path but crowded), flat area near Tavern on the Green for open space practice.",
-      "tags": ["bike", "scooter", "toddler", "riverside-park", "central-park", "outdoor", "UWS"]
+      "category": "Pediatricians",
+      "title": "Tribeca Pediatrics (89th & Columbus) — Dr. Sasala",
+      "content": "Tribeca Pediatrics at 89th and Columbus. Dr. Sasala mentioned. Note: formerly Metropolitan Pediatrics before buyout — some families found it impersonal post-acquisition.",
+      "tags": ["pediatrician", "tribeca pediatrics", "89th columbus", "uws"]
     },
     {
       "id": "162",
-      "category": "UWS Local Tips",
-      "title": "Thanksgiving Parade Viewing Tip: Float Inflation Night",
-      "content": "For a crowd-free Macy's Thanksgiving Parade experience: floats are inflated and parked on CPW between 81st and 86th the evening before (Wednesday night). Note: this has gotten more crowded in recent years as it went viral, but still less than parade day.",
-      "tags": ["thanksgiving", "parade", "macy's", "CPW", "tip", "UWS", "family"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Beyond Basics PT — C-section scar, prenatal/postnatal, no insurance",
+      "content": "Beyond Basics specializes in prenatal and postnatal physical therapy including C-section scar massage. Does not take insurance. Providers: Melanie (midtown), Emily (downtown), Danielle. Highly recommended.",
+      "tags": ["pelvic floor", "pt", "c-section", "scar", "prenatal", "postnatal", "beyond basics"]
     },
     {
       "id": "163",
-      "category": "UWS Local Tips",
-      "title": "NYPL Library Museum Passes — Free Admission to CMOM and More",
-      "content": "The New York Public Library offers museum passes through the library card system. You can borrow passes for CMOM (Children's Museum of Manhattan), the Met, and other museums for free. Check the NYPL website or ask your local branch librarian.",
-      "tags": ["library", "free", "museum", "CMOM", "NYPL", "UWS"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "FemFirst Health — 73rd & Broadway, pelvic floor PT",
+      "content": "FemFirst Health at 73rd and Broadway. Melissa and Kristin are both recommended. Treats diastasis recti and pelvic floor issues. Multiple families rate very highly.",
+      "tags": ["pelvic floor", "pt", "diastasis recti", "73rd broadway", "uws", "femfirst"]
     },
     {
       "id": "164",
-      "category": "UWS Local Tips",
-      "title": "Morningside Park — Good for 110th Area Moms",
-      "content": "Morningside Park recommended for families living in the upper UWS around 110th St. Quieter than Riverside Park and Central Park, good playground, less crowded.",
-      "tags": ["park", "playground", "110th-street", "UWS", "morningside"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Helen Kim — W 72nd, pelvic floor and whole body PT",
+      "content": "Helen Kim on West 72nd Street offers pelvic floor and whole body physical therapy. Also treats chronic back pain. Out of network for UHC.",
+      "tags": ["pelvic floor", "pt", "72nd", "uws", "back pain", "helen kim"]
     },
     {
       "id": "165",
-      "category": "UWS Local Tips",
-      "title": "Community Garden on W87th — Relaxing Outdoor Sitting Spot",
-      "content": "The community garden on W87th St is a good quiet spot to sit while baby naps in stroller. Peaceful, shaded area.",
-      "tags": ["garden", "outdoor", "87th-street", "UWS", "peaceful"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Miccass PT — Shoshana Halpern and Liz, pelvic floor PT",
+      "content": "Shoshana Halpern and Liz at Miccass PT are highly recommended for pelvic floor physical therapy. https://miccasspt.com/staff/shoshana-halpern/",
+      "tags": ["pelvic floor", "pt", "shoshana halpern", "miccass"]
     },
     {
       "id": "166",
-      "category": "UWS Local Tips",
-      "title": "TJ Maxx on Columbus Ave — Baby Gear Bargains",
-      "content": "TJ Maxx on Columbus Ave sometimes carries discounted baby bottles (EvenFlo Balance), play items, and baby gear. Worth a browse when looking for deals.",
-      "tags": ["shopping", "bargain", "baby-gear", "tj-maxx", "columbus-ave", "UWS"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Pamela Morrison PT — 65th & West End, pelvic floor, 70% Aetna reimbursement",
+      "content": "Pamela Morrison at 65th and West End Avenue. Pelvic floor PT. Aetna reimburses at 70%.",
+      "tags": ["pelvic floor", "pt", "65th west end", "uws", "aetna", "pamela morrison"]
     },
     {
       "id": "167",
-      "category": "UWS Local Tips",
-      "title": "Toddler-Friendly Bike Path: Riverside Park above 97th",
-      "content": "The esplanade and path in Riverside Park above 97th St is the least crowded long paved stretch for toddler bikes and scooters. Less foot traffic than lower park sections.",
-      "tags": ["bike", "scooter", "toddler", "riverside-park", "97th-street", "outdoor"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Riva Preil — pelvic floor PT, 85th & Broadway",
+      "content": "Riva Preil is a pelvic floor PT at 85th and Broadway. Recommended by UWS moms.",
+      "tags": ["pelvic floor", "pt", "85th broadway", "uws", "riva preil"]
     },
     {
       "id": "168",
-      "category": "UWS Local Tips",
-      "title": "City Center Free Family Activities (130 W 56th)",
-      "content": "City Center at 130 West 56th St offers free family programming. Enter via 'communityday' for free access.",
-      "tags": ["free", "family", "activities", "city-center", "midtown"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Solstice PT — Lexi Burtman and Erica, near Grand Central",
+      "content": "Solstice Physical Therapy near Grand Central (easy on the S train). Lexi Burtman and Erica are both excellent pelvic floor PTs.",
+      "tags": ["pelvic floor", "pt", "solstice", "grand central", "midtown"]
     },
     {
       "id": "169",
-      "category": "UWS Local Tips",
-      "title": "Waterline Square (60th St) — Sprinklers & Outdoor Play",
-      "content": "Waterline Square at 60th St has sprinkler water play area for toddlers. Good for summer trips downtown from UWS.",
-      "tags": ["playground", "sprinkler", "water-play", "60th-street", "summer"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Spear PT — Kruti Shah (75th, takes Aetna), pelvic floor",
+      "content": "Spear Physical Therapy West 75th has Kruti Shah for pelvic floor PT who takes Aetna. Emily Prader at Broadway 91-92 also mentioned. Mixed reviews — some had negative experiences at Spear.",
+      "tags": ["pelvic floor", "pt", "75th", "aetna", "spear", "kruti shah"]
     },
     {
       "id": "170",
-      "category": "UWS Local Tips",
-      "title": "Family-Friendly Travel: Baby-Friendly Hotels & Resorts",
-      "content": "Resort tips from UWS moms: Atlantis Bahamas good for 2+ years (water park focused). Club Med has well-regarded baby-club programs (dedicated baby care staff). Calcot Hotel in the Cotswolds (UK) is very family-friendly. Kinder Hotels in Austrian Alps are specifically designed for families with young children.",
-      "tags": ["travel", "resort", "hotel", "family-friendly", "international", "tips"]
+      "category": "Pelvic Floor & Postpartum Care",
+      "title": "Wellness Den by Cynergy — UES, Pilates reformer, takes UHC",
+      "content": "Wellness Den by Cynergy on the UES. Uses Pilates reformer for pelvic floor treatment. Takes UHC insurance. Described as life-changing. Worth the crosstown bus.",
+      "tags": ["pelvic floor", "pt", "ues", "pilates reformer", "uhc", "cynergy"]
     },
     {
       "id": "171",
-      "category": "UWS Local Tips",
-      "title": "Morningside Heights / 110th — Good Walking Loop",
-      "content": "Morningside Heights area around 110th has a good stroller walk loop: Morningside Park + up to Riverside Park connects via 116th. Less crowded than the main UWS strip.",
-      "tags": ["walking", "stroller", "110th-street", "morningside", "UWS"]
+      "category": "Primary Care Doctors",
+      "title": "Dr. Molly Grover — Mt Sinai UWS clinic, primary care",
+      "content": "Dr. Molly Grover at the Mount Sinai UWS clinic is recommended as a primary care doctor.",
+      "tags": ["primary care", "mount sinai", "uws", "dr molly grover"]
     },
     {
       "id": "172",
-      "category": "UWS Local Tips",
-      "title": "Fountain Bookshop Story Time (Washington Heights/Fort Tryon)",
-      "content": "Fountain Bookshop offers story time every Tuesday and Friday at 10:15am. Located in Washington Heights/Fort Tryon area — a trip uptown but worth it for book lovers.",
-      "tags": ["story-time", "books", "tuesday", "friday", "washington-heights", "fort-tryon"]
+      "category": "Primary Care Doctors",
+      "title": "Dr. Pravin Matthew — ColumbiaDoctors Lincoln Center, primary care",
+      "content": "Dr. Pravin Matthew at ColumbiaDoctors Lincoln Center. Recommended as a primary care doctor who integrates well with Columbia and Cornell MyChart system. https://share.google/BTW5YiyOJ1A9ItQHm",
+      "tags": ["primary care", "columbia doctors", "lincoln center", "dr pravin matthew"]
     },
     {
       "id": "173",
-      "category": "Childcare & Nannies",
-      "title": "Nanny Shares — Tips for Setting One Up",
-      "content": "Nanny share tips: Both families should agree on a consistent schedule and location. Nanny earns ~15–20% more than solo care. Split cost between families saves ~30–40% each. Best when babies are close in age. Use a written nanny share agreement covering sick days, holidays, and schedule changes.",
-      "tags": ["nanny-share", "childcare", "cost-saving", "tips", "hiring"]
+      "category": "Sleep Consultants",
+      "title": "@heysleepybaby — Instagram resource with paid consults",
+      "content": "@heysleepybaby on Instagram is a recommended sleep resource that also offers consults. Good for families who want guidance without full sleep training.",
+      "tags": ["sleep", "consultant", "instagram", "heysleepybaby"]
     },
     {
       "id": "174",
-      "category": "Childcare & Nannies",
-      "title": "Bright Horizons Backup Care — Same-Day Booking via Care.com",
-      "content": "Bright Horizons offers employer-sponsored backup childcare. Can book same-day through Care.com if your employer has a contract. Good for sick nanny days or daycare closures.",
-      "tags": ["backup-childcare", "daycare", "bright-horizons", "care-com", "employer-benefit"]
+      "category": "Sleep Consultants",
+      "title": "Liza at Rock-a-Bye Baby Sleep — #1 recommended, custom approach",
+      "content": "Liza at Rock-a-Bye Baby Sleep is the most-recommended sleep consultant across all four groups. Designs a custom sleep training method based on your baby's comfort level. Available by text for ongoing questions. Watch for 50%-off sales. Also helps with night weaning without CIO. https://www.rockabyebabysleep.com/",
+      "tags": ["sleep consultant", "sleep training", "no-cry", "night weaning", "liza", "rock-a-bye baby sleep", "top pick"]
     },
     {
       "id": "175",
-      "category": "Parenting Tips",
-      "title": "Solid Starts App — Best Baby Food Introduction Resource",
-      "content": "Solid Starts app and website is the go-to resource for introducing solid foods — shows exact age-appropriate serving sizes, prep methods, choking vs. gagging info, and allergen introduction guides. Free tier is very useful.",
-      "tags": ["solids", "BLW", "puree", "allergen", "app", "solid-starts", "feeding"]
+      "category": "Sleep Consultants",
+      "title": "Taking Cara Babies — online newborn and infant sleep courses",
+      "content": "Taking Cara Babies is a popular digital resource with online workshops and video courses for newborn and infant sleep. Paid fee for full courses.",
+      "tags": ["sleep", "consultant", "online", "course", "taking cara babies", "newborn"]
     },
     {
       "id": "176",
-      "category": "Parenting Tips",
-      "title": "Allergen Introduction: Do One at a Time, Wait 3 Days",
-      "content": "When introducing the 9 major allergens (milk, eggs, peanuts, tree nuts, wheat, soy, fish, shellfish, sesame): introduce one allergen at a time and wait 3 days before introducing another. This allows identification of which food caused a reaction. Best done in the morning so you can monitor during the day.",
-      "tags": ["allergen", "solids", "BLW", "safety", "feeding", "tips"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Asset — stroller-friendly, UWS",
+      "content": "Asset is recommended as a stroller-friendly restaurant on the UWS.",
+      "tags": ["restaurant", "stroller friendly", "uws", "asset"]
     },
     {
       "id": "177",
-      "category": "Parenting Tips",
-      "title": "Choking vs. Gagging — Understanding the Difference",
-      "content": "Gagging is normal and protective — loud, baby is in control. Choking is silent — baby cannot breathe. Do NOT intervene during gagging — it is baby learning. Do intervene immediately for choking. Take an infant CPR class before starting solids (JCC offers these, waitlist required).",
-      "tags": ["choking", "gagging", "safety", "solids", "BLW", "CPR", "tips"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Bustan — good for family dining, UWS",
+      "content": "Bustan is recommended for family dining on the UWS.",
+      "tags": ["restaurant", "family dining", "uws", "bustan"]
     },
     {
       "id": "178",
-      "category": "Parenting Tips",
-      "title": "Postpartum Hair Loss — Expect it at 3–6 Months",
-      "content": "Postpartum hair loss typically peaks around 3–6 months postpartum. Normal due to hormone shifts. No strong product recs from the group — most say it resolves on its own. Biotin supplements may help. Hair typically returns to normal by 12 months.",
-      "tags": ["postpartum", "hair-loss", "health", "hormones", "tips"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Covacha — stroller-friendly, UWS",
+      "content": "Covacha is recommended as stroller-friendly on the UWS.",
+      "tags": ["restaurant", "stroller friendly", "uws", "covacha"]
     },
     {
       "id": "179",
-      "category": "Parenting Tips",
-      "title": "Baby Social Security Card — Apply Before Pediatric Appointments",
-      "content": "Apply for baby's Social Security card at the hospital or shortly after birth. The card is needed for insurance enrollment, tax purposes, and passport applications. Processing takes ~2–4 weeks by mail.",
-      "tags": ["admin", "newborn", "social-security", "paperwork", "tips"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Ella Social — Columbus 70s, happy hour, sangria and tapas",
+      "content": "Ella Social in the 70s on Columbus Avenue. Recommended for happy hour — great sangria and tapas. Good for mom meetups.",
+      "tags": ["restaurant", "happy hour", "tapas", "uws", "ella social"]
     },
     {
       "id": "180",
-      "category": "Baby Products & Gear",
-      "title": "Medela Haakaa / Silicone Pump — Easy Milk Collection",
-      "content": "Haakaa silicone pump attaches via suction to the opposite breast during nursing to passively collect letdown milk. Great for building a freezer stash without extra pumping sessions. Very affordable.",
-      "tags": ["pump", "breastfeeding", "haakaa", "medela", "silicone", "milk-supply"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Ellington in the Park (Riverside Park) — biergarten, open April+",
+      "content": "Ellington in the Park in Riverside Park is a biergarten that opens seasonally from approximately April 24. Stroller-friendly with upper and lower levels. Coffee shop also open. Good for mom meetups.",
+      "tags": ["restaurant", "biergarten", "riverside park", "seasonal", "stroller friendly", "outdoor"]
     },
     {
       "id": "181",
-      "category": "Baby Products & Gear",
-      "title": "Formula: Bobbie Organic — Gentle Option",
-      "content": "Bobbie Organic formula well-tolerated for sensitive stomachs. Not every baby responds the same — allow 1 full week before judging. Enfamil Gentlease reportedly less tolerated than Bobbie by some.",
-      "tags": ["formula", "organic", "bobbie", "sensitive-stomach", "gentle"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Ernesto's — stroller-friendly, UWS",
+      "content": "Ernesto's is recommended as stroller-friendly on the UWS.",
+      "tags": ["restaurant", "stroller friendly", "uws", "ernesto's"]
     },
     {
       "id": "182",
-      "category": "Baby Products & Gear",
-      "title": "Solly Wrap — Stretchy Newborn Carrier",
-      "content": "Solly Baby wrap recommended for newborns. Lightweight, soft jersey fabric. Good for the fourth trimester when baby wants constant contact. Stretchy design means no extra panels.",
-      "tags": ["carrier", "newborn", "wrap", "solly", "babywearing"]
+      "category": "Stroller-Friendly Dining",
+      "title": "French Roast — casual, good for strollers, UWS",
+      "content": "French Roast is a casual restaurant recommended as stroller-friendly on the UWS.",
+      "tags": ["restaurant", "casual", "stroller friendly", "uws", "french roast"]
     },
     {
       "id": "183",
-      "category": "Fitness & Wellness",
-      "title": "Infant CPR Class — JCC Offers (Waitlist Required)",
-      "content": "Infant CPR classes are offered at the JCC on the UWS. Waitlist required — sign up early. Highly recommended to complete before starting solids at 6 months.",
-      "tags": ["CPR", "safety", "infant", "JCC", "UWS", "class"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Granola Bar — casual, toddler-friendly, UWS 90s",
+      "content": "The Granola Bar (West Side location) is casual with staff who are always wonderful with toddlers.",
+      "tags": ["restaurant", "toddler friendly", "casual", "90s", "uws", "granola bar"]
     },
     {
       "id": "184",
-      "category": "UWS Local Tips",
-      "title": "NYC Spray Shower Locator — Official Parks Map",
-      "content": "Find all spray showers and water play areas in NYC via the official NYC Parks website: nycgovparks.org/facilities/sprayshowers. Filter by borough and neighborhood.",
-      "tags": ["water-play", "sprinkler", "summer", "parks", "NYC", "map"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Leyla — date night favorite, UWS",
+      "content": "Leyla is a recommended restaurant for date nights on the UWS. Cute and delicious, consistently praised.",
+      "tags": ["restaurant", "date night", "uws", "leyla"]
     },
     {
       "id": "185",
-      "category": "UWS Local Tips",
-      "title": "Tarr-Coyne Tots Playground (68th & CPW) — Best for Under 20 Months",
-      "content": "Tarr-Coyne Tots playground at 68th St & Central Park West has water play features. Best for babies and toddlers under 20 months — low to ground, gentle spray. Good for summer cool-downs.",
-      "tags": ["playground", "water-play", "sprinkler", "68th-street", "CPW", "toddler", "under-20-months"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Lokal — nice about strollers, UWS",
+      "content": "Lokal is recommended as accommodating to strollers on the UWS.",
+      "tags": ["restaurant", "stroller friendly", "uws", "lokal"]
     },
     {
       "id": "186",
-      "category": "Parenting Tips",
-      "title": "Nap Transition Tips: 3 Naps to 2, 2 Naps to 1",
-      "content": "Nap transition signs: baby takes a long time to fall asleep for one nap or skips it entirely consistently for 1–2 weeks. Don't rush the transition — some babies drop a nap slowly. Huckleberry app helps predict optimal wake windows during transitions.",
-      "tags": ["sleep", "nap", "schedule", "transition", "huckleberry", "tips"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Mermaid Inn — large space, stroller-friendly, NO changing table",
+      "content": "Mermaid Inn has a large space that accommodates strollers well. Good for early dinner or happy hour. WARNING: NO changing table.",
+      "tags": ["restaurant", "stroller friendly", "uws", "mermaid inn", "no changing table"]
     },
     {
       "id": "187",
-      "category": "Parenting Tips",
-      "title": "Iron-Rich Foods for Baby — Critical at 6 Months",
-      "content": "Iron is the most critical nutrient when starting solids at 6 months as breastmilk iron decreases. Prioritize: pureed beef/lamb, chicken, tofu, lentils, fortified oatmeal, beans. Pair with vitamin C foods to boost absorption.",
-      "tags": ["solids", "iron", "nutrition", "6-months", "BLW", "feeding"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Nice Matin — French bistro, good if not too crowded, UWS",
+      "content": "Nice Matin is recommended for dining out with a baby or toddler if not too crowded. French bistro on the UWS.",
+      "tags": ["restaurant", "french", "uws", "nice matin"]
     },
     {
       "id": "188",
-      "category": "Parenting Tips",
-      "title": "Starting Solids: 6 Months, Skip Purees or Combine?",
-      "content": "Both BLW (baby-led weaning with soft finger foods) and purees are valid approaches — or combine both. Key is texture variety and not delaying past 6 months. Offer a variety of flavors early. Solid Starts app has a comprehensive food database with age-specific prep guides.",
-      "tags": ["solids", "BLW", "puree", "6-months", "feeding", "tips", "solid-starts"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Pecora Bianca — good if not too crowded, UWS",
+      "content": "Pecora Bianca is recommended if not too crowded. Good for dining with a baby or toddler.",
+      "tags": ["restaurant", "italian", "uws", "pecora bianca"]
     },
     {
       "id": "189",
-      "category": "Parenting Tips",
-      "title": "Sleep Training Methods — Ferber, Fading, Chair",
-      "content": "Common sleep training methods discussed by UWS moms: Ferber method (graduated extinction, check-ins), Chair method (stay in room, move farther each night), Fading (gradually reduce assistance). Most moms waited until 4–6 months and got pediatrician sign-off first. Taking Cara Babies and Liza at Rock-a-Bye Baby Sleep both recommended.",
-      "tags": ["sleep-training", "ferber", "sleep", "tips", "4-months-plus"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Sempre Oggi — great for group dining, baby showers, back room",
+      "content": "Sempre Oggi is flexible with groups — can reserve the back room for baby showers or larger gatherings. Venue for multiple Nest mamas night out events.",
+      "tags": ["restaurant", "group dining", "private room", "uws", "sempre oggi"]
     },
     {
       "id": "190",
-      "category": "Parenting Tips",
-      "title": "Circumcision Care and Healing Timeline",
-      "content": "Post-circumcision care: apply petroleum jelly with each diaper change for 7–10 days. Keep dry. Healing typically complete by 10–14 days. Call pediatrician if redness spreads or there's unusual discharge. Detailed care sheet provided at hospital.",
-      "tags": ["newborn", "circumcision", "care", "tips", "health"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Tacombi — go-to for families with mixed-age children, UWS",
+      "content": "Tacombi is described as a go-to for dining out with toddlers and babies together. Casual, spacious, stroller-friendly.",
+      "tags": ["restaurant", "mexican", "stroller friendly", "family", "uws", "tacombi"]
     },
     {
       "id": "191",
-      "category": "Baby Products & Gear",
-      "title": "Baby Bjorn Mini — Best Solo-Parent Carrier",
-      "content": "Baby Bjorn Mini recommended as easiest carrier to put on solo without help. Structured design, no wrapping needed. Works from birth (~8 lbs) up to about 12 months.",
-      "tags": ["carrier", "babywearing", "newborn", "solo", "baby-bjorn", "structured"]
+      "category": "Stroller-Friendly Dining",
+      "title": "The Throwback — sports bar, Parents Happy Hour Mon-Fri 2-4pm",
+      "content": "The Throwback sports bar on Amsterdam between 94th and 95th. Parents Happy Hour Monday-Friday 2-4pm. Family Happy Hour also available. Owner has an 18-month-old. Kids entertainment and arcade games downstairs. Semi stroller-friendly.",
+      "tags": ["bar", "happy hour", "family", "kids", "94th amsterdam", "uws", "the throwback"]
     },
     {
       "id": "192",
-      "category": "Baby Products & Gear",
-      "title": "Konny Baby Carrier — Easy On/Off Like a Wrap",
-      "content": "Konny carrier is easy to put on solo (like pulling on a shirt), soft like a wrap but no lengthy wrapping. Good for quick carries around the house or short outings.",
-      "tags": ["carrier", "babywearing", "konny", "easy", "soft-structured"]
+      "category": "Stroller-Friendly Dining",
+      "title": "Westville — outside seating, good with strollers, UWS",
+      "content": "Westville is recommended for outside seating with strollers.",
+      "tags": ["restaurant", "outdoor seating", "stroller friendly", "uws", "westville"]
     },
     {
       "id": "193",
-      "category": "Fitness & Wellness",
-      "title": "Prenatal Yoga Center (PYC, 72nd St) — Postnatal Classes",
-      "content": "PYC at 72nd St offers postnatal yoga. Baby-friendly — recordings sent if you miss portions. Also offers infant ASL & music classes for 3 months+. Popular with UWS moms for community as much as fitness.",
-      "tags": ["yoga", "postnatal", "prenatal", "72nd-street", "UWS", "community"]
+      "category": "UWS Local Tips",
+      "title": "Bike practice for toddlers — Riverside Park above 97th St is best",
+      "content": "Riverside Park (especially above 97th Street) is the best spot for toddlers learning to ride a bike — long uninterrupted pavement and often not too crowded. Also try the concrete area near Tavern on the Green, or the park at 77th and Amsterdam.",
+      "tags": ["bike", "toddler", "riverside park", "97th", "outdoor", "tips"]
     },
     {
       "id": "194",
-      "category": "OB/GYNs",
-      "title": "Dr. Julia Meisler — Weill Cornell OB",
-      "content": "Extremely well-reviewed OB at Weill Cornell. Delivered multiple babies for families in these groups. Strong consensus recommendation across all groups.",
-      "tags": ["ob-gyn", "weill-cornell", "delivery", "highly-recommended"]
+      "category": "UWS Local Tips",
+      "title": "Central Park holiday lights — W 82nd St between Columbus and Amsterdam",
+      "content": "West 82nd Street between Columbus and Amsterdam is recommended for beautiful Christmas/holiday lights. Great for a stroller walk with baby in December.",
+      "tags": ["holiday lights", "christmas", "82nd", "uws", "outdoor", "seasonal"]
     },
     {
       "id": "195",
-      "category": "OB/GYNs",
-      "title": "Dr. Nabizadeh — Weill Cornell OB (C-Section Specialist)",
-      "content": "Highly recommended OB at Weill Cornell. Multiple moms praised her for both routine prenatal care and delivery including scheduled and emergency C-sections.",
-      "tags": ["ob-gyn", "weill-cornell", "c-section", "delivery", "highly-recommended"]
+      "category": "UWS Local Tips",
+      "title": "HiSawyer.com — UWS baby and toddler class finder",
+      "content": "HiSawyer.com lists a comprehensive directory of baby and toddler classes locally on the Upper West Side. Good starting point for finding age-appropriate activities.",
+      "tags": ["classes", "finder", "uws", "baby", "toddler", "resource", "hisawyer"]
     },
     {
       "id": "196",
-      "category": "OB/GYNs",
-      "title": "Oula Midwifery Practice — Prenatal Care",
-      "content": "Oula is a recommended midwifery/OB hybrid practice. Good for those wanting a collaborative care model with midwives and OBs together.",
-      "tags": ["ob-gyn", "midwifery", "prenatal", "oula"]
+      "category": "UWS Local Tips",
+      "title": "Mamava app — find lactation pods at AMNH, MoMA, and other NYC spots",
+      "content": "Mamava app helps locate lactation pods around the city. Pods available at American Museum of Natural History and MoMA among other locations. Access via the app. https://www.mamava.com/",
+      "tags": ["lactation room", "nursing", "breastfeeding", "pods", "mamava", "nyc", "amnh", "moma"]
     },
     {
       "id": "197",
-      "category": "OB/GYNs",
-      "title": "Dr. Anna Rhee & Dr. Robin Brown — Mount Sinai West OBs",
-      "content": "Dr. Anna Rhee and Dr. Robin Brown at Mount Sinai West are recommended OBs. Both well-regarded for prenatal care and delivery.",
-      "tags": ["ob-gyn", "mount-sinai-west", "delivery"]
+      "category": "UWS Local Tips",
+      "title": "Met Museum — strollers allowed inside, lactation room available",
+      "content": "The Metropolitan Museum of Art allows strollers throughout the exhibits. There is a lactation room (not highly rated). Bring a carrier for fussy moments. Goes better during off-peak hours.",
+      "tags": ["museum", "stroller", "lactation", "met museum", "upper east side", "tip"]
     },
     {
       "id": "198",
-      "category": "OB/GYNs",
-      "title": "Dr. Brar-Kripalani & Dr. Worell — Mount Sinai Union Sq Practice",
-      "content": "Highly recommended OB practice at Mount Sinai Union Square. Delivers at Mt Sinai West. Dr. Worell specifically praised for handling emergency C-sections. Full practice is loved.",
-      "tags": ["ob-gyn", "mount-sinai", "union-square", "c-section", "delivery"]
+      "category": "UWS Local Tips",
+      "title": "Mount Sinai West birth certificate — fill out at hospital, ~2 weeks",
+      "content": "After delivering at Mount Sinai West, fill out the birth certificate form at the hospital. It typically arrives approximately 2 weeks later by mail.",
+      "tags": ["birth certificate", "mount sinai west", "hospital", "newborn", "tips"]
     },
     {
       "id": "199",
-      "category": "Home Services",
-      "title": "Mobile Hairstylist — Comes to Your Apartment (~$80)",
-      "content": "Mobile hairstylist who comes to your apartment. Charged ~$80 for a haircut. Convenient for new moms who can't easily get out. Ask in the community group for the contact info.",
-      "tags": ["hair", "mobile", "at-home", "affordable", "convenient"]
+      "category": "UWS Local Tips",
+      "title": "NY Historical Society & Jewish Museum — calm, baby-friendly museums",
+      "content": "The NY Historical Society and the Jewish Museum are recommended as calmer, more baby-friendly museum alternatives to the Met. Good for strollers.",
+      "tags": ["museum", "stroller", "baby-friendly", "calm", "uws", "ny historical society", "jewish museum"]
     },
     {
       "id": "200",
-      "category": "Home Services",
-      "title": "Playground Pups — Dog Training (W92nd & Amsterdam)",
-      "content": "Dog training service at W92nd & Amsterdam Ave. Good for families managing a dog alongside a new baby.",
-      "tags": ["dog", "training", "pets", "92nd-street", "amsterdam", "UWS"]
+      "category": "UWS Local Tips",
+      "title": "NYC spray showers finder — nycgovparks.org map",
+      "content": "Find all NYC spray showers and sprinklers on the parks website. https://www.nycgovparks.org/facilities/sprayshowers",
+      "tags": ["spray showers", "sprinklers", "summer", "parks", "nyc", "map", "free"]
     },
     {
       "id": "201",
-      "category": "Baby Classes & Activities",
-      "title": "Imagine Swimming — Free Family Swim Weekends (with Enrollment)",
-      "content": "Imagine Swimming offers free family swim on weekends for enrolled students. Great bonus — parents and siblings can come. Check their website for current session schedules.",
-      "tags": ["swimming", "free", "weekend", "family", "UWS", "96th-street"]
+      "category": "UWS Local Tips",
+      "title": "Playgrounds with sprinklers — Riverside and Central Park options",
+      "content": "Riverside Park sprinkler playgrounds: Hippo (92nd), River Run, Elephant. Note: Dinosaur playground (90s/Riverside) was CLOSED as of June 2025 for renovation. Central Park sprinkler playgrounds: Wild West, Rudin, Safari (90th), Tots, Adventurers. Tarr-Coyne Tots at 68th and CPW is for under 20 months.",
+      "tags": ["playground", "sprinklers", "summer", "riverside park", "central park", "hippo", "safari", "uws"]
     },
     {
       "id": "202",
       "category": "UWS Local Tips",
-      "title": "River Run Playground — Water Play Feature",
-      "content": "River Run Playground on the UWS has a water play feature. Good for summer visits. Check NYC Parks for exact hours when water features are running.",
-      "tags": ["playground", "water-play", "summer", "UWS", "river-run"]
+      "title": "Plant Shed — flowers and coffee, UWS weekend spot",
+      "content": "Plant Shed is a beloved UWS weekend spot for stroller walks — offers flowers and coffee. Great combination spot for meetups.",
+      "tags": ["coffee", "flowers", "uws", "weekend", "plant shed", "meetup"]
     },
     {
       "id": "203",
       "category": "UWS Local Tips",
-      "title": "Hippo Playground — Water Features",
-      "content": "Hippo Playground on the UWS has water play features in the summer. Good for toddlers.",
-      "tags": ["playground", "water-play", "summer", "UWS", "hippo-playground"]
+      "title": "Swedish Cottage puppet theater — Central Park, best 3-4 years+",
+      "content": "Swedish Cottage in Central Park offers 45-minute puppet shows. Recommended for ages 3-4 and up. Not ideal for babies or very young toddlers.",
+      "tags": ["puppet theater", "central park", "toddler", "3 years", "swedish cottage"]
     },
     {
       "id": "204",
-      "category": "Parenting Tips",
-      "title": "Doula Support — Benefits for Labor and Delivery",
-      "content": "Multiple moms strongly recommend having a doula. Doulas provide continuous labor support, help advocate for birth preferences, and improve outcomes (reduced C-section rates, shorter labor). Many UWS practices are doula-friendly — confirm with your OB beforehand.",
-      "tags": ["doula", "labor", "birth", "support", "tips", "prenatal"]
+      "category": "UWS Local Tips",
+      "title": "The Mom Walk Co UWS — organized morning stroller walks",
+      "content": "The Mom Walk Co on UWS organizes regular morning stroller walks for new and expecting moms. Often at 9:30am. https://www.instagram.com/themomwalkco.uws",
+      "tags": ["walks", "stroller", "meetup", "community", "uws", "mom walk"]
     },
     {
       "id": "205",
-      "category": "Parenting Tips",
-      "title": "Postpartum Depression & Anxiety — Resources",
-      "content": "Postpartum mood disorders affect ~1 in 5 new moms. Signs: persistent sadness, anxiety, intrusive thoughts, inability to sleep even when baby sleeps, feeling detached. Resources: Postpartum Support International (postpartum.net, helpline available), therapy referrals through OB or pediatrician. Don't wait to ask for help.",
-      "tags": ["postpartum", "mental-health", "PPD", "anxiety", "support", "tips"]
+      "category": "UWS Local Tips",
+      "title": "The Nest community meetups — bi-weekly Wednesdays in Central Park",
+      "content": "The Nest UWS Mamas community hosts bi-weekly meetups in Central Park on Wednesdays, plus UWS-focused walks in Riverside Park in the 80s and 90s. Monthly mamas night out at Sempre Oggi ($25 contribution). Family events at Workplayce. Organized by Shai Tamary.",
+      "tags": ["community", "meetup", "central park", "riverside park", "wednesdays", "uws", "the nest"]
     },
     {
       "id": "206",
-      "category": "Baby Products & Gear",
-      "title": "Spectra Pump Parts & Flanges — Get the Right Fit",
-      "content": "Flange size matters significantly for pumping comfort and output. Default flanges are usually too large. Measure at home or ask an IBCLC lactation consultant. Pumpin Pal angled flanges recommended for comfort. Aeroflow Breastpumps handles insurance claims for Spectra S2.",
-      "tags": ["pump", "breastfeeding", "spectra", "flange", "IBCLC", "tips"]
+      "category": "UWS Local Tips",
+      "title": "Greenstones (82nd & Columbus) — children's shoes, first-walker selection",
+      "content": "Greenstones at Columbus Avenue near 82nd Street carries high-quality children's shoes including Naturino. Good for first walkers needing proper footwear.",
+      "tags": ["shoes", "children", "first walker", "82nd columbus", "uws", "greenstones"]
     },
     {
       "id": "207",
-      "category": "Fitness & Wellness",
-      "title": "IBCLC Lactation Consultants — Finding One in NYC",
-      "content": "Recommended ways to find an IBCLC lactation consultant in NYC: Ask your OB or midwife for a referral, check ilca.org for a certified directory, hospital LC often available in the first days. Many are covered by insurance (ACA-required coverage for lactation support). In-home visits available.",
-      "tags": ["lactation", "IBCLC", "breastfeeding", "support", "insurance", "NYC"]
+      "category": "UWS Local Tips",
+      "title": "Renters insurance — essential, especially after weather events",
+      "content": "Renters insurance is highly recommended by UWS moms, especially after storm-related displacement events. Described as a lifeline when apartments become uninhabitable.",
+      "tags": ["renters insurance", "nyc", "tips", "apartment", "emergency"]
     },
     {
       "id": "208",
-      "category": "Baby Classes & Activities",
-      "title": "All My Children Daycare (UWS) — Director Carly",
-      "content": "All My Children Daycare on the UWS. Director named Carly. Mentioned by a UWS mom as an option worth exploring.",
-      "tags": ["daycare", "UWS", "all-my-children"]
+      "category": "UWS Local Tips",
+      "title": "Midea U-shaped window AC — recall notice 2025",
+      "content": "Midea U-shaped window AC units were subject to a recall in 2025. Check if yours is affected. https://nbcnewyork.app.link/rKU5AVuBXTb",
+      "tags": ["ac", "recall", "midea", "safety", "uws", "2025"]
     },
     {
       "id": "209",
-      "category": "Parenting Tips",
-      "title": "Night Sweats & Postpartum Hormone Changes — Normal",
-      "content": "Heavy night sweats in the first weeks postpartum are normal as estrogen drops and fluid is shed. Protect mattress with a waterproof cover. Typically resolves by 2–4 weeks. If ongoing or fever accompanies, contact OB.",
-      "tags": ["postpartum", "health", "hormones", "night-sweats", "tips", "normal"]
+      "category": "UWS Local Tips",
+      "title": "Brilliant Vet — 91st & Amsterdam, free nail trims every 6 weeks",
+      "content": "Brilliant Vet at 91st and Amsterdam Avenue. Wonderful veterinary practice that trims dogs' nails for free every 6 weeks.",
+      "tags": ["vet", "dog", "pet", "91st amsterdam", "uws", "free nail trim"]
     },
     {
       "id": "210",
-      "category": "Baby Products & Gear",
-      "title": "Nuna Pipa Lite Rx — No-Base Car Seat Option for NYC",
-      "content": "The Nuna Pipa Lite Rx can be used without a base — good for taxis and Ubers in NYC. Includes an anti-rebound bar. One of the lightest infant car seats available.",
-      "tags": ["car-seat", "taxi", "uber", "NYC", "nuna", "lightweight", "no-base"]
+      "category": "UWS Local Tips",
+      "title": "Newborn photographer Yana — firstbreath.of.life, birth + newborn photos",
+      "content": "Yana (@firstbreath.of.life on Instagram) is recommended for birth photography, birth videos, and next-day newborn photo shoots. Reasonably priced. Contact via Instagram DM. https://www.instagram.com/firstbreath.of.life",
+      "tags": ["photographer", "newborn", "birth", "photos", "yana", "uws"]
     },
     {
       "id": "211",
-      "category": "Baby Products & Gear",
-      "title": "Ring Sling Carrier — Adjustable for Newborns",
-      "content": "Ring sling carriers are highly adjustable and compact. Good for newborns and breastfeeding on the go. Slight learning curve but very convenient once mastered. Check @letstalkbabywearing for tutorials.",
-      "tags": ["carrier", "babywearing", "ring-sling", "newborn", "breastfeeding"]
+      "category": "UWS Local Tips",
+      "title": "Wonderbly and Mixbook — personalized baby books and photo books",
+      "content": "Wonderbly creates personalized storybooks for babies and children. Mixbook is recommended for creating photo books and baby memory books.",
+      "tags": ["books", "personalized", "photo book", "baby", "wonderbly", "mixbook"]
     },
     {
       "id": "212",
       "category": "UWS Local Tips",
-      "title": "Ellington in the Park — Opening Season Starts Late April",
-      "content": "Ellington in the Park inside Riverside Park typically opens for its outdoor beer garden/café season around April 24. Coffee shop portion may open earlier. Great stroller meetup spot — paths connect directly from the park.",
-      "tags": ["outdoor", "riverside-park", "cafe", "biergarten", "seasonal", "UWS", "meetup"]
+      "title": "Macy's Thanksgiving Parade balloon inflation — CPW 81st-86th, evening before",
+      "content": "Macy's Thanksgiving Parade balloon inflation happens the evening before Thanksgiving along CPW between 81st and 86th Streets. Has gotten crowded in recent years due to being added to NYC tourist lists.",
+      "tags": ["thanksgiving", "parade", "balloons", "cpw", "uws", "seasonal"]
     },
     {
       "id": "213",
-      "category": "Parenting Tips",
-      "title": "Returning to Work: Pumping Room Rights (NYC Law)",
-      "content": "NYC and federal law require employers to provide a private, non-bathroom space for pumping and break time for expressing milk for up to 3 years postpartum. You have the right to request this from HR. If denied, contact NYC Commission on Human Rights.",
-      "tags": ["pumping", "breastfeeding", "work", "rights", "NYC", "law"]
+      "category": "UWS Local Tips",
+      "title": "5th Ave Presbyterian Church — liberal, baby-friendly with nursery",
+      "content": "5th Avenue Presbyterian Church is a liberal, kid-friendly congregation. Can leave baby in nursery during service or bring baby into pews — breastfeeding welcome. Diaper changing facilities available.",
+      "tags": ["church", "community", "baby-friendly", "liberal", "upper east side", "5th ave"]
     },
     {
       "id": "214",
-      "category": "Parenting Tips",
-      "title": "Dream Feed — Adding a Late-Night Feed to Extend Sleep",
-      "content": "A dream feed is a late-night feed (10–11pm) given while baby is mostly asleep, before you go to bed. Can help some babies sleep a longer stretch. Not all babies respond — try consistently for a week before deciding if it helps.",
-      "tags": ["sleep", "dream-feed", "tips", "schedule", "newborn"]
+      "category": "UWS Local Tips",
+      "title": "Alts tailoring shop — well-reviewed, UWS",
+      "content": "Alts tailoring shop on the UWS is well-reviewed. https://maps.app.goo.gl/aGSi85Uhb5cBwgRr5",
+      "tags": ["tailor", "alterations", "uws", "alts"]
     },
     {
       "id": "215",
-      "category": "Parenting Tips",
-      "title": "Teething Relief: Frozen Washcloth, Teething Rings, Motrin",
-      "content": "Teething tips from UWS moms: frozen wet washcloth to chew on, silicone teething rings (refrigerated, not frozen solid), Sophie la Girafe is popular. For severe discomfort: infant Motrin (after 6 months) or Tylenol — ask pediatrician. Avoid teething gels with benzocaine.",
-      "tags": ["teething", "tips", "health", "pain-relief", "infant"]
+      "category": "UWS Local Tips",
+      "title": "Stroller rules at NYC museums — most allow strollers throughout",
+      "content": "Most NYC museums (Met, AMNH) allow strollers throughout exhibits. No coat-check required for strollers. AMNH and MoMA have Mamava lactation pods. The Guggenheim does not accommodate strollers as easily.",
+      "tags": ["stroller", "museum", "nyc", "tips", "met", "amnh", "guggenheim"]
+    },
+    {
+      "id": "216",
+      "category": "UWS Local Tips",
+      "title": "Jury duty excusal for breastfeeding — email and call",
+      "content": "To be excused from jury duty for breastfeeding or being postpartum: email nycountyjurorquestions@nycourts.gov, then call (646) 386-5969.",
+      "tags": ["jury duty", "breastfeeding", "postpartum", "excusal", "nyc"]
+    },
+    {
+      "id": "217",
+      "category": "UWS Local Tips",
+      "title": "Uptown Doulas — all LCs, Maya, Puri, Sophia",
+      "content": "Uptown Doulas are all licensed lactation consultants (LCs). Maya was available by text and call for over a year postpartum for breastfeeding support. Puri and Sophia also praised. https://www.uptowndoulas.com",
+      "tags": ["doula", "lactation", "breastfeeding", "uptown doulas", "maya", "extended support"]
+    },
+    {
+      "id": "218",
+      "category": "UWS Local Tips",
+      "title": "Jury duty excusal note — duplicate entry removed, placeholder",
+      "content": "See item 216 for jury duty excusal information.",
+      "tags": ["placeholder"]
     }
   ]
 }

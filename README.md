@@ -13,8 +13,8 @@ NYC parent WhatsApp groups are goldmines of hyper-local knowledge — pediatrici
 This project extracts that knowledge into a clean, searchable website anyone in the community can use.
 
 **Features:**
-- Full-text search across 215+ knowledge items
-- Filter by category (11 categories)
+- Full-text search across 218 knowledge items
+- Filter by 19 categories (pediatricians, OBGYNs, dentists, doulas, sleep consultants, pelvic floor PTs, classes, dining, and more)
 - Clickable tags that trigger related searches
 - Fully anonymous — no sender names, only the information itself
 - Mobile responsive
@@ -44,7 +44,7 @@ WhatsApp exports (.txt)
   · Deduplicates across groups
         ↓
   web/public/knowledge.json
-  (215 items, 11 categories)
+  (218 items, 19 categories)
         ↓
   Next.js static site
   · Client-side search + filter
@@ -66,7 +66,7 @@ mamas-kb/
     │   ├── page.tsx         # Search UI + knowledge cards
     │   └── globals.css
     └── public/
-        └── knowledge.json  # 215 extracted knowledge items
+        └── knowledge.json  # 218 extracted knowledge items
 ```
 
 ---
